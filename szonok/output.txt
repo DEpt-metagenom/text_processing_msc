@@ -1,0 +1,106 @@
+Enter your search keyphrase: technika
+
+========================================
+Title: Óriási felfedezés: a vírusok hangokat adnak ki
+Scraped Short Description: Hatalmas segítség lehet, ugyanis új gyógyszerek fejlesztéséhez vezethet.
+Generated Gemini Description:
+  A kutatók felfedezték, hogy a vírusok ultrahangos rezgéseket bocsátanak ki, melyek elemzése új módszereket kínálhat a vírusok azonosítására és osztályozására.
+  Ez a hangalapú címkézés segíthet a vírusellenes gyógyszerek fejlesztésében és a fertőzések hatékonyabb kezelésében.
+Generated HunSum-1 Description (Local):
+  A mesterséges intelligencia (MI) a vírusok által inspirált finom aszimmetriákat tudja integrálni mesterséges nanostruktúrákba, és különböző funkciókat is hozzáad.
+
+Sentiment Analysis (Gemini):
+  1 Vírusok által kibocsátott rezgések vizsgálata: Vegyes (Kutatási izgalom a lehetséges előnyökkel szemben)
+  2 Vírusok elleni harc mesterséges intelligencia segítségével: Pozitív (Remény a vírusfertőzések leküzdésére)
+  3 Vírusok precizitása: Vegyes (Lenyűgöző, de ugyanakkor veszélyes is)
+  4 Vírusok mesterséges intelligencia segítségével történő létrehozása és javítása: Pozitív (Az új generációs vírusellenes kezelések lehetősége)
+  5 Vírusok akusztikus rezgéseinek kimutatása: Vegyes (Tudományos áttörés lehetősége és a nehéz megvalósítás kihívása)
+  6 Vírusok címkézése akusztikus rezgések alapján: Pozitív (A lehetséges diagnosztikai és terápiás előnyök)
+  7 Vírusok akusztikus rezgéseinek felhasználása a környezet érzékelésére: Semleges (Lehetséges betekintés a vírusok viselkedésébe, de az eredmények még bizonytalanok)
+  8 Vírusrészecskék valós idejű vizualizálása: Pozitív (Új vírusellenes gyógyszerek fejlesztésének lehetősége)
+  9 Vírusok természetes ellenségei: Vegyes (Veszélyesek, de ugyanakkor a tudományos kutatás alanyai)
+  10 Vírusok által inspirált nanostruktúrák és funkciók: Pozitív (A biotechnológiai fejlődés lehetősége)
+URL: https://index.hu/tudomany/2025/02/13/virus-hang-mesterseges-intelligencia/
+Date: 2025-02-13
+========================================
+
+========================================
+Title: Mesterséges intelligencia frissítheti a Chrome böngésző jelszavait
+Scraped Short Description: Szól, hogy ellopták a jelszót, és segít újat beállítani.
+Generated Gemini Description:
+  A Chrome böngésző fejlesztői verziójában megjelenő új funkció, az "automatikus jelszóváltoztatás",  a Google Jelszókezelő segítségével automatikusan generál és tárol új jelszavakat a kiszivárgott jelszavak felderítése után, bár a mesterséges intelligencia pontos szerepe egyelőre nem tisztázott.
+  A funkció jelenleg manuális engedélyezést igényel.
+Generated HunSum-1 Description (Local):
+  A mesterséges intelligencia frissítheti a Chrome böngésző jelszavait, ha a böngésző megtudja, hogy adatlopás érintett egy jelszót, belépéskor felajánlja, hogy a felhasználó helyett új jelszót állít be.
+
+Sentiment Analysis (Gemini):
+  1: Automatikus jelszóváltoztatás Pozitív (Kényelmes és biztonságos)
+  2: A mesterséges intelligencia szerepe Semleges (Jelenleg bizonytalan, de potenciálisan hasznos)
+  3: Az adatlopás észlelése Pozitív (Fontos az online biztonság szempontjából)
+  4: A felhasználó automatizálása  Vegyes (Kényelmes, de aggályokat vet fel a felhasználói kontrollal kapcsolatban)
+  5: A jelszavak titkos tárolása a Google Jelszókezelőben Pozitív (Biztonságos és kényelmes)
+URL: https://index.hu/techtud/2025/02/12/internet-biztonsag-jelszo-google-chrome-bongeszo-funkcio-mesterseges-intelligencia-automatikus/
+Date: 2025-02-12
+========================================
+
+========================================
+Title: Működik is, meg nem is a Meta gondolatírógépe
+Scraped Short Description: Speciális szoba és mozdulatlan fej kell hozzá.
+Generated Gemini Description:
+  A Meta többéves kutatás után létrehozott egy rendszert, ami gondolatokból képes szöveget generálni, bár a jelenlegi, több millió dolláros prototípus laboratóriumi környezethez kötött és 32%-os hibaaránnyal működik.
+  A fejlesztés fő célja nem egy piaci termék létrehozása, hanem az emberi agy nyelvi működésének megértése, ami elősegítheti a mesterséges intelligencia fejlődését.
+Generated HunSum-1 Description (Local):
+  A Facebook olyan eszközt fejlesztett ki, amivel gondolat útján lehet gépelni, de az ehhez szükséges eszköz több millió dollárba kerül és laboratóriumhoz kötött.
+
+Sentiment Analysis (Gemini):
+  1: Gondolat útján történő gépelés - Vegyes (Ennek a technológiának vannak izgalmas lehetőségei a fogyatékkal élők számára, de egyben aggályokat is felvet a magánélet védelmével és a visszaélések lehetőségével kapcsolatban.)
+  2: Invazív és noninvazív megközelítések - Negatív (Az invazív megközelítések kockázatosak és etikai aggályokat vetnek fel, míg a noninvazív megközelítések jelenleg korlátozottabb képességekkel rendelkeznek.)
+  3: A Meta hosszú távú céljai - Vegyes (A Meta elkötelezettsége az agykutatás iránt ambiciózus, és új lehetőségeket kínálhat az emberi képességek kiterjesztésére, de egyben félelmeket is felvet a technológia potenciális következményeivel kapcsolatban.)
+  4: Az agyi gépelés dekódolása - Pozitív (A Brain2Qwerty rendszer sikeres fejlesztése jelentős előrelépés az agy-gép interfész technológiában, és új lehetőségeket nyithat meg a súlyosan fogyatékos emberek számára.)
+  5: Az agyi gépelés korlátai - Negatív (A rendszer jelenlegi korlátai, például a pontosság és a mozgásérzékenység, akadályozzák a széles körű felhasználását.)
+  6: Az agy nyelvi működésének megértése - Pozitív (A Meta kutatásának melléktermékeként szerzett ismeretek hozzájárulhatnak a nyelvi feldolgozás és a mesterséges intelligencia alapjainak megértéséhez.)
+  7: A mesterséges intelligencia versenye - Semleges (A nyelvmodellek terén zajló verseny pozitív és negatív következményekkel is járhat, mivel elősegítheti az innovációt, de egyben aggályokat is felvet az etikai és társadalmi hatásokkal kapcsolatban.)
+URL: https://index.hu/techtud/2025/02/12/agy-meta-szenzor-gepeles-nyelv-mri-invaziv-fejlesztes-mesterseges-intelligencia/
+Date: 2025-02-12
+========================================
+
+========================================
+Title: Mesterséges intelligencia elleni ítélettel zárult az egyik első per
+Scraped Short Description: Megsértették a Thomson Reuters szerzői jogait.
+Generated Gemini Description:
+  A delaware-i bíróság a Thomson Reuters javára döntött a Ross Intelligence ellen indított pert, amelyben a mesterséges intelligencia cég a Westlaw adatbázis jogszerűtlen felhasználása miatt volt vádolva.
+  Ez az ítélet, bár nem közvetlen precedens a generatív AI-val kapcsolatos esetekre, fontos iránymutatás a mesterséges intelligencia betanítása és a szerzői jogok közötti viszony tekintetében.
+Generated HunSum-1 Description (Local):
+  A delaware-i bíróság kedden a kanadai Thomson Reuters javára döntött abban a perben, amelyet az tartalmai jogtalan felhasználása miatt indított a Ross Intelligence...
+
+Sentiment Analysis (Gemini):
+  1: Thomson Reuters jogai megsértése Negatív (A jogszerűtlen felhasználás miatt)
+  2: Mesterséges intelligencia és szerzői jogok Vegyes (Az AI előnyei és a szerzők védelme közötti feszültség miatt)
+  3: Szabad felhasználás és AI Semleges (Az ügy konkrét körülményei között nehéz egyértelműen pozitív vagy negatív érzelmet társítani az érvekhez)
+  4: Jogalkalmazás a technológiai fejlődéshez Pozitív (Az előrevivő jogi döntés miatt)
+  5: Ross Intelligence tevékenységének megszűnése Negatív (A per negatív hatása a cégre)
+URL: https://index.hu/techtud/2025/02/12/mesterseges-intelligencia-szerzoi-jog-per-thomson-reuters-ross-intelligence/
+Date: 2025-02-12
+========================================
+
+========================================
+Title: Új Beats fülhallgatót mutatott be az Apple
+Scraped Short Description: 2019 óta vártunk az új Powerbeats Próra.
+Generated Gemini Description:
+  Az Apple leányvállalata, a Beats piacra dobta a Powerbeats Pro 2-t, a 2019-es modell továbbfejlesztett változatát, amely jobb hangminőséggel, aktív zajszűréssel, kisebb töltőtokkal, beépített pulzusmérővel és hosszabb akkumulátor-üzemidővel rendelkezik.
+  Ez az újítás tükrözi az Apple egészségmonitorozási megoldásokra fókuszáló új stratégiáját, amely hamarosan az AirPods modellekben is megjelenhet.
+Generated HunSum-1 Description (Local):
+  Az Apple fülhallgatókra szakosodott vállalata, a Beats bemutatta új sportfülhallgatóját, a Powerbeats Pro 2-t.
+  A vezeték nélküli akkumulátor 10 óra használatot biztosít, és hangminősége is jobb.
+
+Sentiment Analysis (Gemini):
+  Powerbeats Pro 2 megjelenése: Pozítív (Már nagyon várták az új modellt.)
+  Beats felvásárlása az Apple által: Vegyes (Az Apple dominanciájának növekedése, de a Beats-rajongók elégedettsége is.)
+  Az eredeti Powerbeats Pro sikere: Pozitív (Az edzéshez való kiváló alkalmasságának elismerése.)
+  A Powerbeats Pro 2 fejlesztései: Nagyon Pozitív (A funkciók széles skálájának, beleértve a pulzusmérést, a jobb hangminőséget és a kisebb tokot.)
+  Az Apple egészségügyi fókusza: Pozitív (Az egészséges életmód ösztönzésének elismerése.)
+  PulseBeats Pro 2 akkumulátor élettartama: Nagyon Pozitív (A hosszú használat és a kényelmes töltés miatt.)
+  Az esemény reklámozása: Vegyes (A "Hallgass a szívedre" szlogen lelkesítő, de az exkluzív termékmegjelenítés kissé csalódást okozhat.)
+URL: https://index.hu/techtud/2025/02/12/apple-beats-szorakoztatoelektronika-fulhallgato-powerbeats-pro-2-pulzusmero/
+Date: 2025-02-12
+========================================
