@@ -1,0 +1,1793 @@
+3389/fcimb.2024.1528017. eCollection 2024.
+
+Genome drafting of nosocomial infection CRE Klebsiella pneumoniae confirming 
+resistance to colistin and eravacycline, carrying bla (NDM-1), mcr-1, and bla 
+(KPC-2), in neonatology from November to December 2023.
+
+Zhou X(1), Wagh K(2), Lv G(3), Sharma D(4), Lei W(3).
+
+Author information:
+(1)Dongguan Maternal and Child Health Care Hospital, Dongguan, Guangdong, China.
+(2)Department of Microbiology, Dr Ulhas Patil Medical College, Jalgaon, India.
+(3)Dongguan Molecular Diagnostic Technology and Infectious Disease Medical Test 
+Engineering Research Center, Dongguan Labway Clinical Laboratory Co., Ltd., 
+Dongguan, China.
+(4)Department of Microbiology, Himachal School of Dental Medical Sciences, 
+Mandi, India.
+
+BACKGROUND: Carbapenem-resistant Klebsiella pneumoniae (CRKP) is a critical 
+pathogen in healthcare settings, associated with high mortality due to its 
+extensive antibiotic resistance. In this study, we report an outbreak of CRKP in 
+a neonatal intensive care unit (NICU) within a 200-bed tertiary hospital. The 
+main goal of this study was to characterize the phenotypic and genomic profiles 
+of the CRKP isolates involved in the outbreak and to gain insights into their 
+resistance mechanisms and transmission dynamics within the NICU.
+METHODS: The study was conducted between November and December 2023 in a 5-bed 
+NICU. Monthly surveillance cultures were performed to monitor colonization and 
+infection with multidrug-resistant organisms. CRKP isolates were obtained from 
+blood and nasal swabs of affected neonates. Identification and antimicrobial 
+susceptibility testing were initially conducted using the Vitek®2 system with an 
+N-395 card and further confirmed by 16S rRNA sequencing. Whole-genome sequencing 
+(WGS) and antimicrobial resistance (AMR) profiling were performed to identify 
+resistance genes and virulence factors. For genetic analysis, both Illumina 
+short-read and Nanopore long-read sequencing were used, followed by hybrid 
+assembly for enhanced genome resolution. Plasmid and resistance gene profiles 
+were determined using AMRFinder and PlasmidFinder databases.
+RESULTS: A total of three CRKP isolates (designated Kp1, Kp2, and Kp3) were 
+identified. Kp1 and Kp2 belonged to sequence type (ST) ST23 and were genetically 
+near-identical, differing by a single allele, while Kp3 was of a distinct 
+sequence type, ST2096, with 245 allelic differences from Kp1 and Kp2. All 
+isolates were resistant to colistin and carried resistance genes, including 
+mcr-1 and bla NDM-1, bla KPC2 confirming carbapenem resistance. Efflux pump 
+genes and aminoglycoside resistance genes were also detected, providing a 
+multifaceted defence against antibiotics. Plasmid analysis identified several 
+incompatibility groups (IncFI, IncHI, IncFIB, IncX), indicating the potential 
+for horizontal gene transfer of resistance determinants.
+CONCLUSION: This study highlights the complexity of CRKP outbreaks in neonatal 
+care, with isolates exhibiting resistance mechanisms that complicate treatment. 
+The plasmid profiles suggest these strains are reservoirs for 
+multidrug-resistant genes, emphasizing the need for strict infection control and 
+ongoing genomic surveillance. For neonatal care, these resistance challenges 
+increase the risk of treatment failures and mortality, underscoring the 
+importance of enhanced infection prevention and novel therapeutic strategies.
+
+Copyright © 2025 Zhou, Wagh, Lv, Sharma and Lei.
+
+DOI: 10.3389/fcimb.2024.1528017
+PMCID: PMC11807969
+PMID: 39931631 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors GL and WL were employed by Dongguan 
+Labway Clinical Laboratory Co., Ltd. The remaining authors declare that the 
+research was conducted in the absence of any commercial or financial 
+relationships that could be construed as a potential conflict of interest.
+
+Front Microbiol. 2025 Jan 27;16:1502138. doi: 10.3389/fmicb.2025.1502138. 
+eCollection 2025.
+
+Phenotypic and WGS-derived antibiotic resistance patterns of Salmonella 
+Enteritidis isolates from retail meat and environment during 2014 to 2019 in 
+China.
+
+Zheng L(#)(1), Di Q(#)(1), Xu X(2), Liu L(1), Qu C(1), Bremer P(3)(4), Zhou 
+X(1).
+
+Author information:
+(1)College of Public Health, Shanghai University of Medicine and Health 
+Sciences, Shanghai, China.
+(2)Shanghai Center for Disease Control and Prevention, Shanghai, China.
+(3)Department of Food Science, University of Otago, Dunedin, New Zealand.
+(4)New Zealand Food Safety Science and Research Centre, Palmerston North, New 
+Zealand.
+(#)Contributed equally
+
+The emergence of multidrug-resistant (MDR) Salmonella Enteritidis has 
+highlighted the importance of regularly monitoring for the occurrence of 
+antibiotic-resistant strains. The current study combined phenotyping analysis 
+and whole-genome-sequencing (WGS) to investigate the associations between the 
+antibiotic-resistant phenotypes (ARPs) and genetic characteristics determinants 
+in 95 Salmonella Enteritidis isolates from retail meat and environmental samples 
+in China (2014-2019). Phenotypic analyses revealed that 70 isolates (73.68%) 
+were MDR with 12 distinct resistance patterns. Most MDR strains (81.43%) had 
+NAL-AMP-FIS-STR ± TET profiles, showing a fluctuating trend from 2015 to 2019, 
+likely influenced by tetracycline withdrawal management. WGS identified four 
+types of mutations in the gyrA gene were associated with nalidixic acid 
+resistance. The co-carrying of bla TEM, sul2 and aph(6)-Id/aph(3″)-Ib was likely 
+mediated by an X1-type plasmid, corresponding to resistance against ampicillin, 
+sulfisoxazole, and streptomycin. Combining phenotypic analyses and WGS data, the 
+31 sequenced strains were primarily divided into two clusters, with most 
+epidemic resistant strains in the largest cluster A. Identical ARP patterns 
+observed across different sample types, regions, and isolation years but 
+clustering together in cluster A suggested potential cross-contamination within 
+the retail chain. Cluster B exhibited more diverse resistance patterns and 
+genetic characteristics. Notably, three isolates in cluster B require special 
+mention: a monophasic strain resistant to eight antibiotics, a strain exhibiting 
+highly heteroresistance, and a strain with additional exotoxin genes. These 
+results highlight the importance of ongoing surveillance and the utility of WGS 
+to track and understand antibiotic resistance in Salmonella Enteritidis.
+
+Copyright © 2025 Zheng, Di, Xu, Liu, Qu, Bremer and Zhou.
+
+DOI: 10.3389/fmicb.2025.1502138
+PMCID: PMC11808041
+PMID: 39931381
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+Placenta. 2025 Feb 5;161:65-75. doi: 10.1016/j.placenta.2025.02.005. Online 
+ahead of print.
+
+Reduced SMEK1 regulates trophoblast migration and invasion in fetal growth 
+restriction.
+
+Li A(1), Zhao M(1), Lin Z(2), Yang Z(1), Gong P(1), Wang C(1), Fang Z(1), Zhang 
+M(3).
+
+Author information:
+(1)Key Laboratory of Maternal & Fetal Medicine of National Health Commission of 
+China, Shandong Provincial Maternal and Child Health Care Hospital Affiliated to 
+Qingdao University, Jinan, 250014, China.
+(2)School of Public Health, Shandong Second Medical University, Weifang, 261053, 
+China.
+(3)Key Laboratory of Maternal & Fetal Medicine of National Health Commission of 
+China, Shandong Provincial Maternal and Child Health Care Hospital Affiliated to 
+Qingdao University, Jinan, 250014, China. Electronic address: 
+meihua2013@163.com.
+
+INTRODUCTION: Fetal growth restriction (FGR) is a significant pregnancy 
+condition characterized by the fetus failing to attain its full genetic growth 
+potential. FGR is primarily ascribed to defective placentation, owing to 
+impaired trophoblast cellular function. The objective of this research is to 
+elucidate the pathogenic functions of suppressor of Mek1 (SMEK1) in FGR.
+METHODS: Western blot and Immunofluorescence were used to detect the expression 
+and localization of SMEK1 in placenta. We overexpressed and knocked down SMEK1 
+using plasmid or siRNA special targeted it. EdU Assay, flow cytometry, Western 
+blot, Wound healing migration and Transwell insert assay were used to detect the 
+influence of SMEK1 on cellular function. The mechanism of SMEK1 in regulating 
+the migration of JEG3 cells was predicted by employing transcriptomics and 
+bioinformatics analysis, and was validated by Western blot.
+RESULTS: The expression of SMEK1 was downregulated in FGR placentas. The 
+aberrant expression of SMEK1 in JEG3 cells is associated with cell migration and 
+invasion, but not with proliferation, or apoptosis. Transcriptomic analysis and 
+Western blots indicate that knockdown of SMEK1 inhibited the PI3K/Akt/mTOR 
+pathway. A significant inhibition was observed in the epithelial-mesenchymal 
+transition (EMT) process of JEG3 cells within the SMEK1 knockdown group. The 
+activation of the PI3K/Akt/mTOR pathway partially restored the impaired 
+migration and invasive ability due to SMEK1 knockdown in JEG3 cells.
+DISCUSSION: the reduction of SMEK1 may contribute to the development of FGR by 
+hindering the EMT process of trophoblast cells through modulation of the 
+PI3K/Akt/mTOR signaling pathway.
+
+Copyright © 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.placenta.2025.02.005
+PMID: 39929058
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no commercial or financial conflicts of interest.
+
+PLoS One. 2025 Feb 7;20(2):e0315583. doi: 10.1371/journal.pone.0315583. 
+eCollection 2025.
+
+Genomic characterization of foodborne Salmonella enterica and Escherichia coli 
+isolates from Saboba district and Bolgatanga Municipality Ghana.
+
+Sunmonu GT(1), Adzitey F(2), Odih EE(1), Tibile BA(2), Ekli R(2), Aduah M(2), 
+Oaikhena AO(1), Akinlabi OC(1), Abia ALK(3), Amoako DG(3)(4), Okeke IN(1).
+
+Author information:
+(1)Department of Pharmaceutical Microbiology, Faculty of Pharmacy, University of 
+Ibadan, Ibadan, Nigeria.
+(2)Faculty of Agriculture, Food and Consumer Sciences, University for 
+Development Studies, Tamale, Ghana.
+(3)Antimicrobial Research Unit, College of Health Sciences, University of 
+KwaZulu-Natal, Durban, South Africa.
+(4)Department of Integrative Biology and Bioinformatics, University of Guelph, 
+Guelph, Ontario, Canada.
+
+Salmonella enterica and Escherichia coli are well-known bacteria commonly 
+associated with foodborne illnesses in humans and animals. Genomic 
+characterization of these pathogens provides valuable insights into their 
+evolution, virulence factors and resistance determinants. This study aimed to 
+characterized previously isolated Salmonella (n = 14) and E. coli (n = 19) from 
+milk, meat and its associated utensils in Ghana using whole-genome sequencing. 
+Most of the Salmonella serovars (Fresno, Plymouth, Infantis, Give and Orleans) 
+identified in this study are yet to be reported in Ghana. Most Salmonella 
+isolates were pan-sensitive, but genes conferring resistance to fosfomycin 
+(fosA7.2) and tetracycline (tet(A)) were detected in one and three isolates, 
+respectively. Seven of the Salmonella isolates carried the IncI1-I(Gamma) 
+plasmid replicon. Although antimicrobial resistance was not common among 
+Salmonella strains, most (11/19) of the E. coli strains had at least one 
+resistance gene, with nearly half (8/19) being multidrug resistant and carried 
+plasmids. Three of the 19 E. coli strains belonged to serovars commonly 
+associated with enteroaggregative E. coli (EAEC) pathotype. While strains 
+belonging to virulence-associated lineages lacked key plasmid-encoded virulence 
+plasmids, several plasmid replicons were detected in most of the E. coli (14/19) 
+strains. Food contaminated with these pathogens can serve as a vehicle for 
+disease transmission, posing a significant public health risk and necessitating 
+stringent food safety and hygiene practices to prevent outbreaks. Hence, there 
+is need for continuous surveillance and preventive measures to stop the spread 
+of foodborne pathogens and reduce the risk of associated illnesses in Ghana.
+
+Copyright: © 2025 Sunmonu et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0315583
+PMCID: PMC11805442
+PMID: 39919045 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+1016/j.eimce.2024.12.008.
+
+Hypervirulent Klebsiella pneumoniae: Epidemiology outside Asian countries, 
+antibiotic resistance association, methods of detection and clinical management.
+
+García-Cobos S(1), Oteo-Iglesias J(2), Pérez-Vázquez M(2).
+
+Author information:
+(1)Laboratorio de Referencia e Investigación en Resistencia a Antibióticos e 
+Infecciones relacionadas con la Asistencia Sanitaria, Centro Nacional de 
+Microbiología, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain; CIBER 
+de Enfermedades Infecciosas (CIBERINFEC), Instituto de Salud Carlos III, Madrid, 
+Spain. Electronic address: s.garciacobos@isciii.es.
+(2)Laboratorio de Referencia e Investigación en Resistencia a Antibióticos e 
+Infecciones relacionadas con la Asistencia Sanitaria, Centro Nacional de 
+Microbiología, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain; CIBER 
+de Enfermedades Infecciosas (CIBERINFEC), Instituto de Salud Carlos III, Madrid, 
+Spain.
+
+Two main Klebsiella pneumoniae pathotypes are of public health concern, 
+classical K. pneumoniae (cKP), with high antibiotic resistance acquisition 
+capacity, and hypervirulent K. pneumoniae (hvKP). The emergence of hypervirulent 
+and antibiotic-resistant K. pneumoniae, especially carbapenem resistance, is 
+worrisome and require effective methods for detection and treatment. Different 
+evolutionary paths contribute to the emergence of hypervirulence and antibiotic 
+resistance, commonly via the acquisition of resistance plasmids by hvKP 
+(CR-hvKP) or the acquisition of virulence plasmids by CRKp (hv-CRKp). ST11-KL64 
+together with blaKPC-2, is the most extended hv-CRKP lineage acquiring virulence 
+plasmids with associated biomarkers, rmpA, rmpa2, iroBCDEN, iucABCDiutA, and 
+peg344. In addition to ST11, other hv-CRKP clones have been reported in Europe 
+such as ST101, ST147 and ST512, highlighting the association of ST147 with 
+OXA-48 and NDM carbapenemases. Although still very rare in Spain, hvKP cases are 
+increasing in recent years, mainly due to ST23-K1, ST380-K2 and ST86-K2. 
+Management of hvKP infections requires active antibiotic therapy based primarily 
+on antibiotic susceptibility patters and site of infection.
+
+Copyright © 2024 The Author(s). Published by Elsevier España, S.L.U. All rights 
+reserved.
+
+DOI: 10.1016/j.eimce.2024.12.008
+PMID: 39914938 [Indexed for MEDLINE]
+
+14715/cmb/2025.70.1.11.
+
+Genomic insights into Enterococcus faecalis implicated in endodontic infections: 
+resistance, virulence, and genetic variability.
+
+Boreak N(1), Mowkly AAM(2), Sharwani A(3), Almasoudi SA(4), Huraysi A(5), Sulily 
+IA(6), Jali GG(7), Basihi MA(8), Alfaifi O(9), Tohari EA(10), Madkhali R(11).
+
+Author information:
+(1)Department of Restorative Dental Sciences, College of Dentistry, Jazan 
+University, Kingdom of Saudi Arabia. nboraak@jazanu.edu.sa.
+(2)Dentist, Ministry of Health, Kingdom of Saudi Arabia. 
+ahlammowkly123@gmail.com.
+(3)Department of Restorative Dental Sciences, College of Dentistry, Jazan 
+University, Kingdom of Saudi Arabia. amnahsher@gmail.com.
+(4)Department of Restorative Dental Sciences, College of Dentistry, Jazan 
+University, Kingdom of Saudi Arabia. shrooq.al1239@gmail.com.
+(5)Department of Restorative Dental Sciences, College of Dentistry, Jazan 
+University, Kingdom of Saudi Arabia. ahmdhrysy0@gmail.com.
+(6)Department of Restorative Dental Sciences, College of Dentistry, Jazan 
+University, Kingdom of Saudi Arabia. Esulily200910@gmail.com.
+(7)Department of Restorative Dental Sciences, College of Dentistry, Jazan 
+University, Kingdom of Saudi Arabia. ghadijali@outlook.com.
+(8)Department of Restorative Dental Sciences, College of Dentistry, Jazan 
+University, Kingdom of Saudi Arabia. dr.mohammedabed@hotmail.com.
+(9)Department of Restorative Dental Sciences, College of Dentistry, Jazan 
+University, Kingdom of Saudi Arabia. os001257@gmail.com.
+(10)Department of Restorative Dental Sciences, College of Dentistry, Jazan 
+University, Kingdom of Saudi Arabia. elhammali7777@gmail.com.
+(11)Department of Restorative Dental Sciences, College of Dentistry, Jazan 
+University, Kingdom of Saudi Arabia. madkhali.rehaf@gmail.com.
+
+Endodontic infections, often involving multispecies bacterial communities, 
+present significant challenges in treatment due to their complex pathogenic 
+mechanisms and resistance to conventional therapies. Enterococcus faecalis is a 
+facultative anaerobic gram-positive bacterium that has been frequently recovered 
+from secondary or persistent endodontic infections. This study investigates the 
+population structure, resistome, mobilome, and virulome of E. faecalis isolated 
+from oral cavity sources, focusing on 22 genomes sequenced from saliva and root 
+canal samples. The genome sequence analysis revealed a diversity of 14 sequence 
+types (STs), highlighting genetic variability within oral E. faecalis 
+populations. Virulence profiling identified 39 genes involved in adherence, 
+biofilm formation, toxin production, stress response, and immune evasion. 
+Antimicrobial resistance (AMR) genes, including lsa(A), efrA, and tetM, were 
+prevalent across all genomes, indicating potential multidrug resistance. Mobile 
+genetic elements (MGEs), such as insertion sequences, transposons, prophages, 
+and plasmids, were also identified, facilitating genetic exchange within and 
+between species. Network analyses identified central virulence genes (e.g., 
+asa1, gelE) and AMR genes (e.g., ANT (6)-Ia, dfrE) crucial for pathogenicity and 
+resistance, highlighting their pivotal roles in E. faecalis infections. This 
+study provides comprehensive insights into the genomic characteristics, AMR 
+genes, virulence factors, and genetic mobile elements associated with E. 
+faecalis isolates from the oral cavity, offering implications for dental health 
+and potential strategies for infection control and treatment.
+
+DOI: 10.14715/cmb/2025.70.1.11
+PMID: 39910937 [Indexed for MEDLINE]
+
+Microb Drug Resist. 2025 Feb 5. doi: 10.1089/mdr.2024.0065. Online ahead of
+ print.
+
+Emergence of Multidrug-Resistant NDM-5-Producing ST307 Klebsiella pneumoniae in 
+Uruguay, 2023.
+
+Magallanes C(1), Eugster E(1), Clavijo F(2), Siri MI(2), Cantero J(3)(4), 
+Echeverría P(5), Torello J(6), Castro M(1)(5), Márquez C(1)(7).
+
+Author information:
+(1)Laboratorio de Microbiología Clínica, Departamento de Bioquímica Clínica, 
+Facultad de Química, Universidad de la República, Montevideo, Uruguay.
+(2)Laboratorio de Microbiología Molecular, Departamento de Biociencias, Facultad 
+de Química, Universidad de la República, Montevideo, Uruguay.
+(3)Departamento DETEMA, Facultad de Química, Universidad de la República, 
+Montevideo, Uruguay.
+(4)Centro de Investigaciones Médicas, Facultad de Ciencias de la Salud, 
+Universidad Nacional del Este, Minga Guazú, Paraguay.
+(5)Sociedad Médica Universal, Montevideo, Uruguay.
+(6)Laboratorio Central del HCFFAA, Montevideo, Uruguay.
+(7)Instituto de Química Biológica, Facultad de Ciencias, Universidad de la 
+República, Montevideo, Uruguay.
+
+Carbapenem and colistin-resistant Klebsiella pneumoniae pose a significant 
+threat to public health, particularly in intensive care units, due to high 
+morbidity and mortality rates. This study aimed to analyze five NDM 
+carbapenemase-producing multidrug-resistant K. pneumoniae isolates from 
+different hospitals. Antimicrobial susceptibility testing, hypermucoviscosity 
+analysis, biofilm production assessment, MLST, PCR, and whole-genome sequencing 
+were conducted. All isolates harbored NDM-5 metallo-β-lactamase, belonging to 
+MLST 307, were biofilm producers and exhibited a stop codon (Q30) along MgrB. 
+Genomic analysis revealed multiple-replicon plasmids carrying resistance genes, 
+notably blaNDM-5, blaCTX-M-15, rmtB, and qnrB1, with complex genetic structures 
+encoding several mobile genetic elements, including the Tn3 family and IS26. All 
+isolates harbored wzi173 (capsule-locus KL102), iutA (a siderophore-associated 
+gene), and the type 3 fimbriae mrkABCDFHIJ operon. The core genome single 
+nucleotide polymorphisms (SNPs) analysis suggests the circulation of two strains 
+of ST307 clone (SNPs range differences 4-77). These findings highlight the 
+potential plasticity of the high-risk ST307 clone and the urgent need for 
+surveillance and intervention strategies to combat antimicrobial resistance. To 
+our knowledge, this is the first report of K. pneumoniae ST307 carrying blaNDM-5 
+and the first description of ST307 in Uruguay. The presence of blaNDM-5 and 
+pan-aminoglycoside resistance rmtB genes are identified for the first time in 
+Uruguay.
+
+DOI: 10.1089/mdr.2024.0065
+PMID: 399104032221. BMC Public Health. 2025 Feb 5;25(1):469. doi: 10.1186/s12889-025-21741-4.
+
+Spatiotemporal clusters of acute respiratory infections associated with 
+socioeconomic, meteorological, and air pollution factors in South Punjab, 
+Pakistan.
+
+Fatima M(1), Butt I(2), MohammadEbrahimi S(3)(4), Kiani B(5), Gruebner O(6).
+
+Author information:
+(1)Department of Geography, The Islamia University of Bahawalpur, Bahawalpur, 
+Pakistan. munazza.fatima@iub.edu.pk.
+(2)Institute of Geography, University of The Punjab, Lahore, Pakistan.
+(3)Department of Medical Informatics, School of Medicine, Mashhad University of 
+Medical Sciences, Mashhad, Iran.
+(4)Department of Social and Preventive Medicine, School of Public Health, 
+University of Montreal (ESPUM), Montreal, QC, Canada.
+(5)Centre for Clinical Research, Faculty of Health, Medicine and Behavioural 
+Sciences, The University of Queensland, Brisbane, Australia.
+(6)Faculty of Health Sciences and Medicine, University of Lucerne, Lucerne, 
+Switzerland.
+
+BACKGROUND: In Pakistan, acute respiratory infections (ARI) continue to be a 
+major public health problem. However, there is still a lack of scholarly work 
+regarding different environmental and socioeconomic influencing factors and how 
+they interact with respiratory infections. Furthermore, we do not know much 
+about geographic variation in this context. Therefore, our study examines the 
+ecological-level spatial and temporal patterns of acute respiratory infection 
+incidence (ARI) and their geographic relationship with selected socio-economic, 
+meteorological, and air pollution factors in Pakistan.
+METHODS: We applied the spatiotemporal scan statistics to examine the purely 
+temporal, spatial, and spatiotemporal clusters of ARI in South Punjab, Pakistan 
+for five years (2016-2020). Generalized Linear Model (GLM) and geographically 
+weighted regression (GWR) were also applied to model the linear and non-linear 
+spatial relationships between selected variables and ARI.
+RESULTS: Our results indicate that in the central and northern regions of 
+Pakistan, two spatial clusters of ARI were present, accounting for 28.5% of the 
+total cases. A spatiotemporal cluster with a relative risk of 1.57 was 
+discovered in the northeastern area. The results obtained from the season-based 
+GLM highlighted the significance of climatic factors (temperature, fog, dust 
+storms) and air pollutants (NO2) in influencing ARI incidence, while 
+socio-economic variables (rural population, literacy) had limited impact. In 
+addition, GWR revealed that the relationships between predictors and ARI 
+incidence varied across locations, emphasizing the importance of considering 
+local settings. Season-based non-stationary GLM revealed a multifaceted 
+interaction among socio-economic, meteorological, and air pollution factors.
+CONCLUSIONS: Our study provides evidence about environmental and socio-economic 
+factors significantly associated with ARI incidence. In addition, this study 
+provides the first baseline of ARI cases in Pakistan to plan for intervention 
+and adaptation strategies and may be replicated in other regions of comparable 
+settings worldwide.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12889-025-21741-4
+PMCID: PMC11800423
+PMID: 39910401 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: We obtained ARI reported cases data through data provision letter 
+No: 554 (MIS) dated 5–06-2023 from Directorate General Health Services Punjab 
+Pakistan. Consent for publication: Not applicable, as we use aggregated data. 
+Competing interests: The authors declare no competing interests.
+
+Microb Genom. 2025 Feb;11(2):001345. doi: 10.1099/mgen.0.001345.
+
+Whole-genome sequencing of Acinetobacter baumannii clinical isolates from a 
+tertiary hospital in Terengganu, Malaysia (2011-2020), revealed the predominance 
+of the Global Clone 2 lineage.
+
+Din NS(1), Mohd Rani F(1), Alattraqchi AG(1), Ismail S(1), A Rahman NI(1), 
+Cleary DW(2)(3), Clarke SC(1)(4)(5)(6)(7), Yeo CC(1).
+
+Author information:
+(1)Centre for Research in Infectious Diseases and Biotechnology, Faculty of 
+Medicine, Universiti Sultan Zainal Abidin, Kuala Terengganu, Malaysia.
+(2)Department of Microbes, Infections and Microbiomes, School of Infection, 
+Inflammation and Immunology, College of Medicine and Health, University of 
+Birmingham, Birmingham, UK.
+(3)Institute of Microbiology and Infection, University of Birmingham, 
+Birmingham, UK.
+(4)Faculty of Medicine and Institute for Life Sciences, University of 
+Southampton, Southampton, UK.
+(5)NIHR Southampton Biomedical Research Centre, University Hospital Southampton 
+Foundation NHS Trust, Southampton, UK.
+(6)Global Health Research Institute, University of Southampton, Southampton, UK.
+(7)Institute for Research, Development and Innovation, International Medical 
+University, Kuala Lumpur, Malaysia.
+
+Carbapenem-resistant Acinetobacter baumannii is recognized by the World Health 
+Organization (WHO) as one of the top priority pathogens. Despite its public 
+health importance, genomic data of clinical isolates from Malaysia remain 
+scarce. In this study, whole-genome sequencing was performed on 126 A. baumannii 
+isolates collected from the main tertiary hospital in the state of Terengganu, 
+Malaysia, over a 10-year period (2011-2020). Antimicrobial susceptibilities 
+determined for 20 antibiotics belonging to 8 classes showed that 77.0% 
+(n=97/126) of the isolates were categorized as multidrug resistant (MDR), with 
+all MDR isolates being carbapenem resistant. Multilocus sequence typing analysis 
+categorized the Terengganu A. baumannii clinical isolates into 34 Pasteur and 44 
+Oxford sequence types (STs), with ST2Pasteur of the Global Clone 2 lineage 
+identified as the dominant ST (n=76/126; 60.3%). The ST2Pasteur isolates could 
+be subdivided into six Oxford STs with the majority being ST195Oxford (n=35) and 
+ST208Oxford (n=17). Various antimicrobial resistance genes were identified with 
+the bla OXA-23-encoded carbapenemase being the predominant acquired 
+carbapenemase gene (n=90/126; 71.4%). Plasmid-encoded rep genes were identified 
+in nearly all (n=122/126; 96.8%) of the isolates with the majority being Rep_3 
+family (n=121). Various virulence factors were identified, highlighting the 
+pathogenic nature of this bacterium. Only 14/126 (11.1%) of the isolates were 
+positive for the carriage of CRISPR-Cas arrays with none of the prevalent 
+ST2Pasteur isolates harbouring them. This study provided a genomic snapshot of 
+the A. baumannii isolates obtained from a single tertiary healthcare centre in 
+Malaysia over a 10-year period and showed the predominance of a single closely 
+related ST2Pasteur lineage, indicating the entrenchment of this clone in the 
+hospital.
+
+DOI: 10.1099/mgen.0.001345
+PMCID: PMC11798184
+PMID: 39908088 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no conflicts 
+of interest.
+
+3389/fcimb.2024.1413024. eCollection 2024.
+
+Whole-genome analysis of a ST45-SCCmec IVa (2B)-t116 methicillin-resistant 
+Staphylococcus aureus strain isolated from the sputum of a 5-year-old child with 
+pneumonia.
+
+Huang L(#)(1), Guo R(#)(1), Lin J(#)(1), Li X(1), Li Z(1), Zhang L(2), Li W(2), 
+Xue R(3), Zhang C(1), Feng X(1), Li X(2)(4).
+
+Author information:
+(1)Department of Pediatrics, Zhuhai People's Hospital (The Affiliated Hospital 
+of Beijing Institute of Technology, Zhuhai Clinical Medical College of Jinan 
+University), Zhuhai, China.
+(2)Guangdong Provincial Key Laboratory of Tumor Interventional Diagnosis and 
+Treatment, Zhuhai People's Hospital (The Affiliated Hospital of Beijing 
+Institute of Technology, Zhuhai Clinical Medical College of Jinan University), 
+Zhuhai, China.
+(3)School of Clinical Medicine, Capital Medical University, Beijing, China.
+(4)Department of Pulmonary and Critical Care Medicine, Zhuhai People's Hospital 
+(The Affiliated Hospital of Beijing Institute of Technology, Zhuhai Clinical 
+Medical College of Jinan University), Zhuhai, China.
+(#)Contributed equally
+
+INTRODUCTION: Methicillin-resistant Staphylococcus aureus (MRSA) sequence type 
+(ST) 45 is a major global MRSA lineage with huge strain diversity and a high 
+clinical impact. In Hainan and Guangzhou of China, the ST45-MRSA was mainly 
+associated with t116.
+METHODS: The MRSA strain SA2107 was isolated from the sputum of a 5-year-old 
+child with pneumonia. The whole genome of SA2107 was sequence using Illumina 
+(Novaseq 6000) and PacBio (Sequel IIe) sequencers, and the sequences were 
+assembled using hybrid assembly. The carriage of antibiotic resistance genes, 
+virulence genes, and mobile genetic elements were identified using 
+bioinformatics tools. The comparative genomic analyses of MRSA strain SA2107 
+with other MRSA strains worldwide were performed.
+FINDINGS: The genome size of ST45-SCCmec IVa (2B)-t116 MRSA strain SA2107 was 
+~2.9 Mb. Mobile genetic elements analysis of SA2107 revealed two plasmids 
+(30,064-bp pSA2107-1 and 8,033-bp pSA2107-2), three prophages, two integrative 
+and conjugative elements (ICEs), and two insertion sequences (ISs, IS431 and 
+IS1272). The SCCmec IVa (2B) carried by SA2107 contained the class B mec gene 
+complex (IS431-mecA-ΔmecR1-IS1272) and type 2 ccr gene complex (ccrA2 and 
+ccrB2). Besides mecA, another beta-lactam resistance gene blaZ was found to 
+located on six copies of bla complex (blaZ, blaR1, and blaI) on the chromosome 
+of SA2107. Three kinds of virulence factors were detected on the chromosome of 
+SA2107, including genes encoding toxins, exoenzyme, and immune-modulating 
+protein. Notably, the three prophages harbored by the chromosome of SA2107 all 
+carried virulence genes.
+CONCLUSION: Thus far, only three complete genomes available for ST45-SCCmec IVa 
+(2B)-t116 strain from United States, Germany, and Australia, respectively. The 
+strain SA2107 was the first complete genome data (CP104559) from China for 
+ST45-SCCmec IVa (2B)-t116 MRSA.
+
+Copyright © 2025 Huang, Guo, Lin, Li, Li, Zhang, Li, Xue, Zhang, Feng and Li.
+
+DOI: 10.3389/fcimb.2024.1413024
+PMCID: PMC11790441
+PMID: 39906210 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+One Health. 2025 Jan 11;20:100967. doi: 10.1016/j.onehlt.2025.100967. 
+eCollection 2025 Jun.
+
+Genomic and resistome analysis of Salmonella enterica isolates from retail 
+markets in Yichun city, China.
+
+Jiang X(1)(2), Siddique A(3)(4), Chen L(1), Zhu L(1), Zhou H(3)(4), Na L(3), Jia 
+C(3)(4), Li Y(3)(4), Yue M(3)(4)(5).
+
+Author information:
+(1)College of Medicine, Yichun University, 576 Xuefu Road, Yichun, Jiangxi 
+336000, China.
+(2)Jiangxi Provincial Key Laboratory of Active Component of Natural Drugs, 
+Poster-Doctoral Research Center, 576 Xuefu Road, Yichun, Jiangxi 336000, China.
+(3)Institute of Preventive Veterinary Sciences and Department of Veterinary 
+Medicine, Zhejiang University College of Animal Sciences, Hangzhou 310058, 
+China.
+(4)Hainan Institute of Zhejiang University, Sanya 572000, China.
+(5)Zhejiang Provincial Key Laboratory of Preventive Veterinary Medicine, 
+Hangzhou 310058, China.
+
+Nontyphoidal Salmonella (NTS) causes global outbreaks of foodborne disease. The 
+main source of Salmonella for humans is animal-borne foods; however, the 
+monitoring of Salmonella in the food chain via genomic platforms was limited in 
+China. This study evaluated the prevalence, resistome, and virulome diversity of 
+Salmonella strains identified from pork, retail environment, aquatic products, 
+and poultry eggs of retail markets in Yichun city, Jiangxi province. The overall 
+incidence of Salmonella was 9.4 %, with a higher contamination rate observed in 
+pork at 13.5 %, followed by the retail environment at 7.69 %. The genomic 
+analysis of the isolates revealed a total of fifteen distinct serovars, with 
+serovar Enteritidis being the most prevalent (64.3 %). The phenotypic resistance 
+analysis conducted by the broth microdilution method, revealed that 81.12 % of 
+the isolates exhibited multidrug resistance (MDR), with high resistance to 
+trimethoprim/sulphonamides (100 %), followed by tetracycline (99.3 %) and 
+streptomycin (99.3 %). Genotypic analysis of antimicrobial resistance identified 
+80 antimicrobial-resistant genes (ARGs), with mdf(A), aph(3')-Ib, tet(A), 
+dfrA12, floR, bla TEM-1B , qnrS3, and sul2, conferring resistance to different 
+antimicrobial classes, being the predominant ARGs. Additionally, forty ESBL 
+genes, particularly critical genes such as bla CTX-M and bla NDM-1, were also 
+identified in Salmonella isolates. The IncR, IncFIB (K), and IncX1 plasmid 
+replicons were widely prevalent and served as significant reservoirs of 
+horizontally acquired foreign genes. Moreover, key virulence genes such as cdtB, 
+lpf and sef were also detected, in addition to Salmonella pathogenicity islands 
+SPI-1 and SPI-2. This study reveals the prevalence of multidrug-resistant and 
+virulent strains of Salmonella serovars in the markets of Yichuan city, posing a 
+risk of human infections. The gained knowledge provided essential baseline 
+information that may be utilized for regular tracking of MDR Salmonella 
+transmission in the food chain to minimize potential future outbreaks.
+
+© 2025 The Authors. Published by Elsevier B.V.
+
+DOI: 10.1016/j.onehlt.2025.100967
+PMCID: PMC11791297
+PMID: 39906162
+
+Conflict of interest statement: None.
+
+Vet Anim Sci. 2025 Jan 18;27:100428. doi: 10.1016/j.vas.2025.100428.
+eCollection  2025 Mar.
+
+Prevalence, antimicrobial resistance and phylogenetic analysis of Salmonella 
+contamination and transmission in yellow-feathered broiler hatcheries in China.
+
+Wu C(1), Deng Y(1), Chen Z(1), Peng J(1), Wu P(1), Chen J(1), Chen P(2), Liao 
+M(1)(3), Xu C(1), Zhang J(1).
+
+Author information:
+(1)State Key Laboratory for Animal Disease Control and Prevention, Key 
+Laboratory of Zoonoses, Ministry of Agriculture and Rural Affairs, College of 
+Veterinary Medicine, South China Agricultural University, Guangzhou, 510642, 
+China.
+(2)Henan Institute of Modern Chinese Veterinary Medicine, Zhengzhou 451450, 
+China.
+(3)Institute of Animal Health, Guangdong Academy of Agricultural Sciences, 
+Guangzhou 510640, China.
+
+Salmonella is a significant avian pathogen causing infectious diseases in 
+poultry, with hatching playing a crucial role in its transmission. Despite its 
+importance, systematic research on Salmonella transmission in hatcheries remains 
+limited. This study evaluates the prevalence and antimicrobial resistance of 
+Salmonella throughout all production stages in yellow-feathered broiler 
+hatcheries: laying, egg storage, incubating, hatching, and post-hatch. We found 
+an overall Salmonella prevalence of 11.3 %, with the pathogen detected in both 
+chickens and environmental samples. The hatching stage was identified as the 
+most critical for Salmonella spread. Moreover, Salmonella Pullorum is the 
+predominant serotype (93.97 %). Notably, all Salmonella isolates exhibited 
+multidrug resistance, with some resistant to polymyxin B (22.41 %) and 
+tigecycline (12.93 %). Resistance rates were highest for nalidixic acid (100.00 
+%), sulfamethoxazole (100.00 %), ciprofloxacin (95.69 %), and ampicillin (94.83 
+%). Additionally, antimicrobial resistance plasmid replicons and virulence genes 
+were identified in these isolates. Whole genome sequencing was performed on 43 
+S. Pullorum isolates, revealing that the majority were ST92 (90.70 %). 
+Phylogenetic analysis classified the isolates into three lineages, with Lineage 
+III being the most predominant (83.72 %). It was found that Salmonella isolates 
+from chicks and eggs across various production stages were closely related, and 
+those from the environment also showed significant similarity. This suggests 
+that Salmonella in the environment may originate from chicks/eggs and spread to 
+other stages. More attention should be paid to Salmonella contamination in 
+yellow-feathered broiler hatcheries, and stringent measures should be taken to 
+control the horizontal spread of Salmonella, in addition to blocking the pathway 
+of vertical transmission.
+
+© 2025 Published by Elsevier Ltd.
+
+DOI: 10.1016/j.vas.2025.100428
+PMCID: PMC11791430
+PMID: 39906156
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+(4)United States Department of Agriculture, Agricultural Research Service, 
+Beltsville Agricultural Research Center, Environmental Microbial and Food Safety 
+Laboratory, Beltsville, MD 20705. Electronic address: bradd.haley@usda.gov.
+
+OBJECTIVE: Raoultella planticola is an emerging opportunistic pathogen closely 
+related to members of the Klebsiella genus. Genomic characterization of R. 
+planticola isolates recovered from food animals is lacking. Here we describe the 
+antimicrobial resistance genes, virulence factors, plasmid replicons, and 
+phylogeny of three antimicrobial-resistant R. planticola isolates recovered from 
+the feces of three dairy calves within 48 hours of birth.
+METHODS: The genomes of the three R. planticola isolates were sequenced on a 
+NextSeq 2000 platform using paired-end sequencing. The raw reads were trimmed 
+using Trimmomatic and assembled using SPAdes v 3.15.4. Antimicrobial resistance 
+genes, virulence factors and plasmid replicons were identified using ABRicate. 
+Single nucleotide polymorphisms were identified among the genomes using the 
+Harvest package and phylogenies were inferred using RAxML.
+RESULTS: In total, nine different ARGs known to confer resistance to at least 
+five different classes of antibiotics were detected among the three R. 
+planticola genomes. These include blaPLA, a β-lactamase found only in R. 
+planticola, fosfomycin resistance gene fosA, and a sequence aligned with oxqAB, 
+an efflux pump conferring resistance to antibiotics including fluoroquinolones. 
+Each genome encoded between four and seven ARGs, with three considered 
+genotypically to be multidrug-resistant (MDR). Two of the three genomes harbored 
+plasmids, and all three encoded 41 to 42 virulence factors, including iron 
+scavenging genes sitABCD.
+CONCLUSIONS: Results of this study demonstrate the presence of diverse 
+antimicrobial-resistant R. planticola, isolated from the feces of healthy dairy 
+calves, that had some virulence factors that may cause human disease.
+
+Copyright © 2025. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jgar.2025.01.020
+PMID: 39894302
+
+Adv Sci (Weinh). 2025 Jan 31:e2411994. doi: 10.1002/advs.202411994. Online
+ahead  of print.
+
+DNA Polymerase IV dinB Favors the Adaptive Fitness of mcr-carrying Bacteria 
+Through a Negative Feedback Regulatory Mechanism.
+
+Zhang H(1)(2), Xiao X(1), Wang C(1), Zhao Y(1), Chen B(1), Ji X(1), Gu L(1), 
+Wang J(1), Wang Z(1)(2)(3), Liu Y(1)(2)(3).
+
+Author information:
+(1)Jiangsu Co-innovation Center for Prevention and Control of Important Animal 
+Infectious Diseases and Zoonoses, College of Veterinary Medicine, Yangzhou 
+University, Yangzhou, 225009, China.
+(2)Joint International Research Laboratory of Agriculture and Agri-Product 
+Safety, the Ministry of Education of China, Yangzhou University, Yangzhou, 
+225009, China.
+(3)Institute of Comparative Medicine, Yangzhou University, Yangzhou, 225009, 
+China.
+
+The plasmid-borne resistance gene mcr drastically undermines the effectiveness 
+of colistin, posing a substantial threat to public health. Although several key 
+plasmid elements that balance mcr-1 persistence and bacterial growth are 
+identified, the regulatory interactions between mcr-1 and host bacteria remain 
+poorly understood. Using a genome-wide CRISPRi crRNA library, it is identified 
+that DNA polymerase IV, dinB, is essential for controlling the fitness cost 
+associated with mcr-1 in Escherichia coli. The absence of dinB operon enhances 
+mcr-1-mediated colistin resistance but simultaneously compromises bacterial 
+growth and competitiveness. Meanwhile, dinB deficiency mitigates inflammatory 
+response in RAW267.4 cells and enhances bacterial colonization in murine 
+tissues. Further investigation reveals that mcr-1 actively upregulates dinB 
+expression, with the increased reactive oxygen species induced by mcr-1 being 
+crucial for this activation.   These findings suggest that dinB modulates mcr 
+expression and bacterial fitness via a negative feedback regulatory mechanism. 
+Leveraging this regulatory relationship, a Toxin-Intein is engineered under the 
+control of dinB promoter to selectively target and kill mcr-positive E. coli 
+both in vitro and in vivo. Overall, the work uncovers a novel adaptive mechanism 
+underlying mcr persistence and provides a precise antimicrobial strategy to 
+combat antibiotic-resistant pathogens.
+
+© 2025 The Author(s). Advanced Science published by Wiley‐VCH GmbH.
+
+DOI: 10.1002/advs.202411994
+PMID: 39887566
+
+1128/aac.01497-24.  Online ahead of print.
+
+Assessing the threat of Yersinia pestis harboring a multi-resistant IncC plasmid 
+and the efficacy of an antibiotic targeting LpxC.
+
+Lemaitre N(1)(2), Dewitte A(1), Rakotomanimana F(3), Gooden D(4), Toone E(4), 
+Rajerison M(3), Zhou P(5), Sebbane F(1).
+
+Author information:
+(1)Univ. of Lille, CNRS, Inserm, CHU Lille, Institut Pasteur de Lille, U1019-UMR 
+9017-CIIL-Center for Infection and Immunity of Lille, Lille, France.
+(2)UR4294, Agents Infectieux, résistance et chimiothérapie (AGIR), Université de 
+Picardie Jule Vernes, Amiens, France.
+(3)Plague Unit, Institut Pasteur de Madagascar, Antananarivo, Madagascar.
+(4)Department of Chemistry, Duke University, Durham, North Carolina, USA.
+(5)Department of Biochemistry, Duke University School of Medicine, Durham, North 
+Carolina, USA.
+
+Self-transmissible IncC plasmids rapidly spread multidrug resistance in many 
+medically important pathogens worldwide. A large plasmid of this type (pIP1202, 
+~80 Kb) has been isolated in a clinical isolate of Yersinia pestis, the agent of 
+plague. Here, we report that pIP1202 was highly stable in Y. pestis-infected 
+mice and fleas and did not reduce Y. pestis virulence in these animals. Although 
+pIP1202 inflicted a fitness cost in fleas (but not in mice) when the insects fed 
+on blood containing a mixture of plasmid-free and plasmid-bearing strains, such 
+a co-infection scenario has never been reported in nature, indicating that 
+pIP1202 could persist in Y. pestis strains. Despite being resistant to commonly 
+used antibiotic treatments, we show that plague caused by Y. pestis harboring 
+the pIP1202 plasmid is effectively cured by LPC-233-a potent inhibitor of the 
+essential LpxC enzyme in the lipid A biosynthetic pathway. Taken as a whole, our 
+data highlight the alarming threat posed by Y. pestis harboring 
+multidrug-resistant IncC plasmids that may persist in wild animals as a 
+reservoir for long periods without antibiotic pressure and illuminate the impact 
+of antibiotics with a novel mode of action against such a biothreat.
+
+DOI: 10.1128/aac.01497-24
+PMID: 39882860
+
+3389/fcimb.2024.1493225. eCollection 2024.
+
+Global insights into the genome dynamics of Clostridioides difficile associated 
+with antimicrobial resistance, virulence, and genomic adaptations among clonal 
+lineages.
+
+Sholeh M(1)(2), Beig M(1)(2), Kouhsari E(3), Rohani M(1), Katouli M(4), Badmasti 
+F(1).
+
+Author information:
+(1)Department of Bacteriology, Pasteur Institute of Iran, Tehran, Iran.
+(2)Student Research Committee, Pasteur Institute of Iran, Tehran, Iran.
+(3)Laboratory Sciences Research Center, Golestan University of Medical Sciences, 
+Gorgan, Iran.
+(4)Genecology Research Centre, Faculty of Science, Health, Education and 
+Engineering, University of the Sunshine Coast, Maroochydore DC, QLD, Australia.
+
+BACKGROUND: Clostridioides difficile is a significant cause of 
+healthcare-associated infections, with rising antimicrobial resistance 
+complicating treatment. This study offers a genomic analysis of C. difficile, 
+focusing on sequence types (STs), global distribution, antibiotic resistance 
+genes, and virulence factors in its chromosomal and plasmid DNA.
+METHODS: A total of 19,711 C. difficile genomes were retrieved from GenBank. 
+Prokka was used for genome annotation, and multi-locus sequence typing (MLST) 
+identified STs. Pan-genome analysis with Roary identified core and accessory 
+genes. Antibiotic resistance genes, virulence factors, and toxins were detected 
+using the CARD and VFDB databases, and the ABRicate software. Statistical 
+analyses and visualizations were performed in R.
+RESULTS: Among 366 identified STs, ST1 (1,326 isolates), ST2 (1,141), ST11 
+(893), and ST42 (763) were predominant. Trends of genome streamlining included 
+reductions in chromosomal length, gene count, protein-coding genes, and 
+pseudogenes. Common antibiotic resistance genes-cdeA (99.46%), cplR (99.63%), 
+and nimB (99.67%)-were nearly ubiquitous. Rare resistance genes like blaCTX-M-2, 
+cfxA3, and blaZ appeared in only 0.005% of genomes. Vancomycin 
+susceptibility-reducing vanG cluster genes were detected at low frequencies. 
+Virulence factors showed variability, with highly prevalent genes such as zmp1 
+(99.62%), groEL (99.60%), and rpoB/rpoB2 (99.60%). Moderately distributed genes 
+included cwp66 (54.61%) and slpA (79.02%). Toxin genes tcdE (91.26%), tcdC 
+(89.67%), and tcdB (89.06%) were widespread, while binary toxin genes cdtA 
+(26.19%) and cdtB (26.26%) were less common. Toxin gene prevalence, particularly 
+tcdA and tcdB, showed a gradual decline over time, with sharper reductions for 
+cdtA and cdtB. Gene presence patterns (GPP-1) for resistance, virulence, and 
+toxin genes were primarily linked to ST2, ST42, and ST8.
+CONCLUSION: This study highlights C. difficile's adaptability and genetic 
+diversity. The decline in toxin genes reflects fewer toxigenic isolates, but the 
+bacterium's increasing preserved resistance factors and virulence genes enable 
+its rapid evolution. ST2, ST42, and ST8 dominate globally, emphasizing the need 
+for ongoing monitoring.
+
+Copyright © 2025 Sholeh, Beig, Kouhsari, Rohani, Katouli and Badmasti.
+
+DOI: 10.3389/fcimb.2024.1493225
+PMCID: PMC11774869
+PMID: 39882343 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+1016/j.diagmicrobio.2025.116701. Online ahead of print.
+
+Whole genome sequencing and phylogenetic analysis to examine acquisition of 
+Escherichia coli clones during international travel.
+
+Tufic-Garutti SDS(1), Longo LGA(2), Ragupathy R(3), Akram M(3), Enright MC(3), 
+Moreira BM(4), Rodrigues KMP(5).
+
+Author information:
+(1)Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de 
+Janeiro, Rio de Janeiro, Brazil; Universidade Nilton Lins, Manaus, Brazil.
+(2)Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de 
+Janeiro, Rio de Janeiro, Brazil; Faculdade de Medicina, Instituto de Educação 
+Médica (IDOMED), Universidade Estácio de Sá, Rio de Janeiro, Brazil.
+(3)Manchester Metropolitan University, Manchester, United Kingdom.
+(4)Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de 
+Janeiro, Rio de Janeiro, Brazil.
+(5)Faculdade de Medicina, Instituto de Educação Médica (IDOMED), Universidade 
+Estácio de Sá, Rio de Janeiro, Brazil; Centro de Informação em Saúde para 
+Viajantes, Faculdade de Medicina, Universidade Federal do Rio de Janeiro, Rio de 
+Janeiro, Brazil. Electronic address: karismpr@gmail.com.
+
+International travel facilitates the acquisition and carriage of 
+extended-spectrum beta-lactamase-producing Escherichia coli (ESBL-E). We 
+describe genomes of predominant ESBL-E clones detected before and after travel 
+among subjects departing from Rio de Janeiro, Brazil, during 2015-2021, and 
+genomes publicly available from countries visited by travelers. WGS (Illumina 
+NovaSeq) was performed on 70 ESBL-E isolates from 66 travelers (18 pre- and 52 
+post-travel). Sequence type (ST), antimicrobial resistance (AMR), virulence 
+genes, and plasmids were determined by Center for Genomic Epidemiology tools. 
+Phylogenetic trees were constructed with each of the most frequent ST of 
+travelers' genomes (TG) and genomes with the same ST from Enterobase (EG). Other 
+analyses were performed with Prokka, Roary, SNP-sites, and FastTree. Trees were 
+visualized with iTOL. Among 70 ESBL-E, the clonal composition was quite diverse, 
+with 41 different ST, with predominance before of CC10 and CC131, and after 
+travel, CC10, CC131, CC69, and CC38, and three ST described for the first time: 
+ST14408 and ST14412 (CC10), and ST4411 (CC20). Core genome phylogenetic analysis 
+revealed 17 clusters, eight of which formed by post-travel TG and EG detected in 
+the same country visited by traveler. We observed an increased number and 
+diversity of AMR genes, plasmids, and virulence genes in post-travel isolates, 
+although we only found statistical significance for IncFIB plasmid. Genome 
+clustering supported the high-risk clone acquisition and AMR during 
+international trips. More than half of detected clones were related to ExPEC and 
+showed an increased number and diversity of AMR and virulence-related genes, as 
+well as plasmids in post-travel isolates.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.diagmicrobio.2025.116701
+PMID: 39874857
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+Plant Dis. 2025 Jan 28. doi: 10.1094/PDIS-08-24-1731-PDN. Online ahead of
+print.
+
+First Report of Pantoea ananatis Causing Bacterial Leaf and Panicle Blight of 
+Rice in Louisiana, USA.
+
+Bruno J(1)(2), Barphagha I(3), Ontoy J(1)(4), Dalla Lana F(5), Ham JH(1)(6).
+
+Author information:
+(1)LSU AgCenter, Plant Pathology and Crop Physiology, Baton Rouge, Louisiana, 
+United States.
+(2)Louisiana State University College of Agriculture, Plant Pathology and Crop 
+Physiology, Baton Rouge, Louisiana, United States; jbruno@agcenter.lsu.edu.
+(3)LSU AgCenter, Plant Pathology and Crop Physiology, Baton Rouge, Louisiana, 
+United States; IBarphagha@agcenter.lsu.edu.
+(4)Louisiana State University College of Agriculture, Plant Pathology and Crop 
+Physiology, Baton Rouge, Louisiana, United States; jontoy@agcenter.lsu.edu.
+(5)LSU AgCenter, H. Rouse Caffey Rice Research Station, Rayne, Louisiana, United 
+States; FDallaLana@agcenter.lsu.edu.
+(6)Louisiana State University College of Agriculture, Plant Pathology and Crop 
+Physiology, Baton Rouge, Louisiana, United States; jham@agcenter.lsu.edu.
+
+In July 2023, panicle and leaf blight-like symptoms were observed from the rice 
+(Oryza sativa) variety, PVL03, in research field plots in Louisiana (Rayne, LA 
+70578, USA; 30.21330⁰ N, 92.37309⁰ W). We observed that chlorosis started on the 
+tips and spread throughout the whole leaf. We also observed panicle blight-like 
+symptoms (grain discoloration of rice hulls) on infected rice plants at the 
+heading stage, which ranged from dark brown to black. Disease incidences were 
+approximately 70% in the observed plots. Five plants were sampled from five 
+plots (one plant per plot). Leaf tissues including both symptomatic and healthy 
+parts (~ 1 cm2) were surfaced sterilized and placed on CCNT medium, a 
+semi-selective medium for the rice bacterial panicle blight pathogen 
+Burkholderia glumae (Kawaradani et al., 2000), and on Luria-Bertani (LB) agar 
+supplemented with cycloheximide (50 µg/ml) for non-selective isolation of 
+bacteria. For the panicle samples, the surfaced sterilized rice kernels were 
+dehulled and ground in sterile distilled H2O using a sterile mortar and pestle. 
+The homogenate was spread on the CCNT media and LB agar supplemented with 
+nitrofurantoin (50 µg/ml) and cycloheximide (50 µg/ml). After ~72 h at 41⁰C, 
+round, smooth and yellow-colored bacterial colonies were observed on both media. 
+The two isolates, one from an infected rice leaf (LPL-1) and the other from the 
+infected rice panicles (LPP-1), were initially identified as Pantoea ananatis 
+based on PCR-amplified 16S rDNA sequences (Weisburg et al., 1991). The taxonomic 
+identity of these two isolates was further confirmed through whole genome 
+sequencing (NCBI Accession ID: PRJNA1092676), which was performed through a 
+hybrid sequencing approach using Oxford Nanopore sequencer & Illumina 
+NextSeq2000 system (Plasmidsaurus Inc., South San Francisco, CA, USA). To 
+satisfy Koch's postulates, we inoculated six one-month-old rice plants (cv. 
+Kitaake) with LPL-1 and LPP-1, respectively, by pricking the stems with a 
+sterile toothpick touched to the overnight grown bacterial culture on LB agar (~ 
+5-8 x 105 bacterial cells). This virulence assay was conducted twice, and rice 
+plants inoculated with sterile distilled water were included as the negative 
+control. By 27 days post inoculation (DPI), the inoculated plants developed 
+symptoms on leaves and panicles, which were like the symptoms originally 
+observed in the field, and additional symptoms such as shot holes and stem 
+necrosis were also observed. From leaf and panicle samples of the artificially 
+inoculated plants, we reisolated bacteria and confirmed the identity of the 
+bacteria using the P. ananatis specific PCR primers PANA_1080 61F and PANA_1080 
+1009R (Asselin et al., 2016). To the best of our knowledge, this is the first 
+report of bacterial panicle and leaf blight of rice caused by P. ananatis in 
+Louisiana. Since P. ananatis is a recently emerging pathogen of rice worldwide, 
+including the United States (Yu et. al., 2022; Lu et al., 2022; Luna et al., 
+2023), it is crucial to monitor the occurrence of this pathogen in other 
+rice-growing areas as a potential threat to US rice production.
+
+DOI: 10.1094/PDIS-08-24-1731-PDN
+PMID: 39874171
+
+ISME J. 2025 Jan 27:wraf009. doi: 10.1093/ismejo/wraf009. Online ahead of
+print.
+
+Protozoa-enhanced conjugation frequency alters the dissemination of soil 
+antibiotic resistance.
+
+Lin C(1)(2), Li LJ(1)(2), Yang K(1), Xu JY(1)(3), Fan XT(1), Chen QL(1)(2), Zhu 
+YG(1)(2)(4).
+
+Author information:
+(1)State Key Laboratory for Ecological Security of Regions and Cities, Ningbo 
+Urban Environment Observation and Research Station, Institute of Urban 
+Environment, Chinese Academy of Sciences, 1799 Jimei Road, Xiamen 361021, China.
+(2)Zhejiang Key Laboratory of Urban Environmental Processes and Pollution 
+Control, CAS Haixi Industrial Technology Innovation Center in Beilun, Ningbo 
+315830, China.
+(3)University of Chinese Academy of Sciences, 19A Yuquan Road, Beijing 100049, 
+China.
+(4)State Key Laboratory of Urban and Regional Ecology, Research Center for 
+Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085, China.
+
+Protozoa, as primary predators of soil bacteria, represent an overlooked natural 
+driver in the dissemination of antibiotic resistance genes. However, the effects 
+of protozoan predation on antibiotic resistance genes dissemination at the 
+community level, along with the underlying mechanisms, remain unclear. Here we 
+used fluorescence-activated cell sorting, qPCR, combined with metagenomics and 
+reverse transcription quantitative PCR, to unveil how protozoa (Colpoda steinii 
+and Acanthamoeba castellanii) influence the plasmid-mediated transfer of 
+antibiotic resistance genes to soil microbial communities. Protozoan predation 
+reduced the absolute abundance of plasmids but promoted the expression of 
+conjugation-associated genes, leading to a 5-fold and 4.5-fold increase in 
+conjugation frequency in the presence of C. steinii and A. castellanii, 
+respectively. Excessive oxidative stress, increased membrane permeability, and 
+the provoked SOS response closely associated with the increased conjugative 
+transfer. Protozoan predation also altered the plasmid host range and selected 
+for specific transconjugant taxa along with antibiotic resistance genes and 
+virulence factors carried by transconjugant communities. This study underscores 
+the role of protozoa in the plasmid-mediated conjugative transfer of antibiotic 
+resistance genes, providing new insights into microbial mechanisms that drive 
+the dissemination of environmental antibiotic resistance.
+
+© The Author(s) 2025. Published by Oxford University Press on behalf of the 
+International Society for Microbial Ecology.
+
+DOI: 10.1093/ismejo/wraf009
+PMID: 39869787
+
+Microb Pathog. 2025 Jan 23:107317. doi: 10.1016/j.micpath.2025.107317.
+Online  ahead of print.
+
+Colistin antibacterial activity, clinical effectiveness, and mechanisms of 
+intrinsic and acquired resistance.
+
+Mousavi SMJ(1), Hosseinpour M(2), Rafiei F(3), Mahmoudi M(4), Shahraki H(5), 
+Shiri H(6), Hashemi A(3), Sharahi JY(7).
+
+Author information:
+(1)Department of Pathobiology, School of Public Health, Tehran University of 
+Medical Sciences, Tehran, Iran.
+(2)Department of Microbiology, Virology and Microbial Toxins, School of 
+Medicine, Guilan University of Medical Sciences, Rasht, Iran.
+(3)Department of Microbiology, School of Medicine, Shahid Beheshti University of 
+Medical Sciences, Tehran, Iran.
+(4)Department of Immunology, School of Medicine, Iran University of Medical 
+Sciences, Tehran, Iran.
+(5)Department of Hematology and Blood Banking, School of Allied Medical 
+Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+(6)Department of Clinical Biochemistry, Tehran University of Medical Sciences, 
+Tehran, Iran.
+(7)Department of Microbiology, School of Medicine, Shahid Beheshti University of 
+Medical Sciences, Tehran, Iran. Electronic address: j.yasbolaghi@gmail.com.
+
+Following a period of disuse owing to the emergence of multidrug-resistant 
+Gram-negative bacteria, colistin has regained global attention as an antibiotic 
+of last resort. The resurgence in its utilization has led to a concurrent 
+increase in acquired resistance, presenting a significant challenge in clinical 
+treatment. Predominantly, resistance mechanisms involve alterations in the lipid 
+A component of the lipopolysaccharide (LPS) structure. These alterations are 
+facilitated by the addition of cationic phosphoethanolamine (pEtN) or 
+4-amino-L-arabinose, often driven by the upregulation of two-component 
+regulatory systems such as PmrAB and PhoPQ. Structural components of bacteria, 
+such as capsules and efflux pumps, can also play an important role in the 
+resistance mechanism. In addition to these biochemical modifications, structural 
+components of bacteria like capsules and efflux pumps also play crucial roles in 
+mediating resistance. Another significant mechanism is the acquisition of the 
+plasmid-mediated mobilized colistin resistance (mcr) gene, which poses a global 
+health threat due to its ability to transfer between different bacterial genera. 
+Contemporary strategies to combat colistin resistance include the development 
+and use of novel drugs and inhibitors. To devise effective interventions, it is 
+imperative to first elucidate the precise mechanisms of colistin resistance and 
+determine the roles of various contributing factors.
+
+Copyright © 2025. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.micpath.2025.107317
+PMID: 39863092
+
+Conflict of interest statement: Declaration of Competing Interest ☒ The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+Int J Mol Sci. 2025 Jan 9;26(2):504. doi: 10.3390/ijms26020504.
+
+Molecular Epidemiology and In-Depth Characterization of Klebsiella pneumoniae 
+Clinical Isolates from Armenia.
+
+Sedrakyan A(1), Gevorgyan Z(2), Zakharyan M(1), Arakelova K(1), Hakobyan S(1), 
+Hovhannisyan A(1), Aminov R(3).
+
+Author information:
+(1)Institute of Molecular Biology, National Academy of Sciences of RA, Yerevan 
+0014, Armenia.
+(2)Department of Clinical Laboratory Diagnostics, Yerevan State Medical 
+University After M. Heratsi, Yerevan 0025, Armenia.
+(3)School of Medicine, Medical Sciences and Nutrition, University of Aberdeen, 
+Aberdeen AB25 2ZD, UK.
+
+The global dissemination of Klebsiella pneumoniae pathotypes with 
+multidrug-resistant (MDR) and hypervirulent traits poses a threat to public 
+health. The situation in Armenia is unclear, and we performed a comprehensive 
+characterisation of 48 clinical isolates of K. pneumoniae, collected from 2018 
+to 2024. The majority of the isolates (64.58%) were extensively drug-resistant 
+(XDR) and MDR. Genomic analysis of 21 isolates revealed the presence of 
+international high-risk MDR clones (ST395, ST15, and ST307). The ST395 strains 
+were isolated from children and resisted the first-line drugs such as 
+beta-lactams. These isolates harboured a range of virulence determinants, from 
+capsule polysaccharides to siderophores to regulators of the mucoid phenotype. 
+The ST395 strains are enriched by ICEs, plasmids, and prophages, on which 
+antimicrobial resistance (AMR) and virulence genes are located and which may 
+lead to the convergence of MDR and hypervirulent traits. There is a widespread 
+non-specific AMR mechanism among our K. pneumoniae strains. These are mutations 
+in the porin genes, which reduce permeability to antimicrobials, and mutations 
+in the regulators of efflux pumps, which lead to overexpression of drug efflux 
+pumps such as AcrAB. These mechanisms may contribute to the elevated MICs and 
+confer AMR to strains with no specific AMR genes.
+
+DOI: 10.3390/ijms26020504
+PMCID: PMC11764700
+PMID: 39859219 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+Microorganisms. 2025 Jan 18;13(1):206. doi: 10.3390/microorganisms13010206.
+
+Comparative Genomic Analysis of Campylobacter Plasmids Identified in Food 
+Isolates.
+
+He Y(1), Dykes GE(1), Kanrar S(2), Liu Y(1), Gunther NW 4th(1), Counihan KL(1), 
+Lee J(1), Capobianco JA(1).
+
+Author information:
+(1)Characterization and Interventions for Foodborne Pathogens Research Unit, 
+Eastern Regional Research Center, Agricultural Research Service, United States 
+Department of Agriculture, 600 East Mermaid Lane, Wyndmoor, PA 19038, USA.
+(2)Foreign Arthropod-Borne Animal Disease Research Unit, National Bio and 
+Agro-Defense Facility, Agricultural Research Service, United States Department 
+of Agriculture, Manhattan, KS 66502, USA.
+
+Campylobacter is one of the leading bacterial causes of gastroenteritis 
+worldwide. It frequently contaminates poultry and other raw meat products, which 
+are the primary sources of Campylobacter infections in humans. Plasmids, known 
+as important mobile genetic elements, often carry genes for antibiotic 
+resistance, virulence, and self-mobilization. They serve as the main vectors for 
+transferring genetic material and spreading resistance and virulence among 
+bacteria. In this study, we identified 34 new plasmids from 43 C. jejuni and C. 
+coli strains isolated from retail meat using long-read and short-read genome 
+sequencing. Pangenomic analysis of the plasmid assemblies and reference plasmids 
+from GenBank revealed five distinct groups, namely, pTet, pVir, mega plasmids 
+(>80 kb), mid plasmids (~30 kb), and small plasmids (<6 kb). Pangenomic analysis 
+identified the core and accessory genes in each group, indicating a high degree 
+of genetic similarity within groups and substantial diversity between the 
+groups. The pTet plasmids were linked to tetracycline resistance phenotypes in 
+host strains. The mega plasmids carry multiple genes (e.g., aph(3')-III, type IV 
+and VI secretion systems, and type II toxin-antitoxin systems) important for 
+plasmid mobilization, virulence, antibiotic resistance, and the persistence of 
+Campylobacter. Together, the identification and comprehensive genetic 
+characterization of new plasmids from Campylobacter food isolates contributes to 
+understanding the mechanisms of gene transfer, particularly the spread of 
+genetic determinants of virulence and antibiotic resistance in this important 
+pathogen.
+
+DOI: 10.3390/microorganisms13010206
+PMCID: PMC11768034
+PMID: 39858976
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+Microorganisms. 2025 Jan 14;13(1):163. doi: 10.3390/microorganisms13010163.
+
+Isolation and Characterization of Colistin-Resistant Enterobacteriaceae from 
+Foods in Two Italian Regions in the South of Italy.
+
+Fraccalvieri R(1), Bianco A(1), Difato LM(1), Capozzi L(1), Del Sambro L(1), 
+Castellana S(1), Donatiello A(1), Serrecchia L(1), Pace L(1), Farina D(1), 
+Galante D(1), Caruso M(1), Tempesta M(2), Parisi A(1).
+
+Author information:
+(1)Experimental Zooprophylactic Institute of Apulia and Basilicata, 71121 
+Foggia, Italy.
+(2)Department of Veterinary Medicine, University Aldo Moro of Bari, Strada per 
+Casamassima Km 3, 70010 Bari, Italy.
+
+The emergence of colistin-resistant Enterobacteriaceae in food products is a 
+growing concern due to the potential transfer of resistance to human pathogens. 
+This study aimed to assess the prevalence of colistin-resistant 
+Enterobacteriaceae in raw and ready-to-eat food samples collected from two 
+regions of Italy (Apulia and Basilicata) and to evaluate their resistance 
+phenotypes and genetic characteristics. A total of 1000 food samples were 
+screened, with a prevalence of 4.4% of colistin-resistant Enterobacteriaceae. 
+The majority of the isolates belonged to Enterobacter spp. (60%), followed by 
+Moellerella wisconsensis, Atlantibacter hermannii, Klebsiella pneumoniae, and 
+Escherichia coli, among others. Genomic sequencing and antimicrobial 
+susceptibility testing revealed high levels of resistance to β-lactams, with 
+most isolates exhibiting multidrug resistance (MDR). Notably, seven isolates 
+harbored mcr genes (mcr-1, mcr-9, and mcr-10). Additionally, in four of them 
+were predicted the IncHI2 plasmids, known to facilitate the spread of colistin 
+resistance. Furthermore, 56 antimicrobial resistance genes were identified, 
+suggesting the genetic mechanisms underlying resistance to several antibiotic 
+classes. Virulence gene analysis showed that E. coli and other isolates carried 
+genes linked to pathogenicity, increasing the potential risk to public health. 
+This study emphasizes the role of food as a potential reservoir for 
+colistin-resistant bacteria and the importance of monitoring the spread of AMR 
+genes in foodborne pathogens.
+
+DOI: 10.3390/microorganisms13010163
+PMCID: PMC11767609
+PMID: 39858930
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+Microorganisms. 2025 Jan 6;13(1):92. doi: 10.3390/microorganisms13010092.
+
+Salmonella enterica serovar Schwarzengrund: Distribution, Virulence, and 
+Antimicrobial Resistance.
+
+Felix MA(1)(2), Han J(1), Khajanchi BK(1)(3), Sanad YM(1)(2), Zhao S(4), Foley 
+SL(1).
+
+Author information:
+(1)Division of Microbiology, National Center for Toxicological Research, U.S. 
+Food and Drug Administration, Jefferson, AR 72079, USA.
+(2)Department of Agriculture, University of Arkansas at Pine Bluff, Pine Bluff, 
+AR 71601, USA.
+(3)Office of Applied Research and Safety Assessment, Center for Food Safety and 
+Applied Nutrition, U.S. Food and Drug Administration, Laurel, MD 20708, USA.
+(4)Office of Applied Research, Center for Veterinary Medicine, U.S. Food and 
+Drug Administration, Laurel, MD 20708, USA.
+
+The global incidence of Salmonella enterica serovar Schwarzengrund has risen in 
+recent years. This serotype has been isolated from poultry, retail meat, and 
+other food products, leading to multiple outbreaks. Alongside the increase in 
+infections, there are growing concerns about the increasing levels of 
+antimicrobial resistance (AMR) among S. Schwarzengrund strains. This study aims 
+to better understand the genetic factors possibly contributing to the rising 
+prevalence of S. Schwarzengrund by analyzing the sequences of 2058 isolates from 
+both human patients (N = 313) and food- and animal-associated sources, including 
+chicken (N = 1145), turkey (N = 300), pork (N = 132), and other sources (N = 
+168). Data were obtained from GenBank and analyzed for AMR genes using 
+AMRFinder. Additionally, putative virulence genes and plasmid transfer genes 
+were assessed using the Virulence and AMR Plasmid Transfer Factor Database. AMR 
+genes were found in 1269 (61.7%) of the isolates, with a total of 2478 AMR genes 
+among the isolates, the most common being aph(3″)-Ib (N = 969, 47.1%), tet(A) (N 
+= 190, 9.2%), and sul2 (N = 150, 7.3%), which are responsible for resistance to 
+aminoglycoside, tetracycline, and sulfonamide, respectively. Additionally, 1060 
+(51.5%) isolates carried multiple plasmid transfer genes associated with 
+IncFIB-FIC(FII) plasmids. Other plasmid types found in at least 1% of the 
+strains included IncI1 (N = 101, 4.9%), IncHI2 (N = 62, 3.0%), or IncHI1 (N = 
+24, 1.2%). The virulence gene profiles of human isolates showed diversity but 
+largely overlapped with those from different food sources. Notably, the 
+aerobactin iron acquisition genes, associated with Salmonella's virulence and 
+colonization, were highly prevalent among chicken isolates (N = 1019, 89.0%) but 
+less frequent in isolates from other sources (N = 65, 7.2%). IncFIB-FIC(FII) 
+plasmids, commonly harboring the aerobactin operon, were highly prevalent among 
+chicken-related isolates and present in about 10% of human isolates. The diverse 
+plasmid, AMR, and virulence gene profiles in human-associated isolates suggest 
+that multiple factors may contribute to the increased virulence in S. 
+Schwarzengrund.
+
+DOI: 10.3390/microorganisms13010092
+PMCID: PMC11767468
+PMID: 39858860
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+Microorganisms. 2025 Jan 5;13(1):89. doi: 10.3390/microorganisms13010089.
+
+Sequencing Analysis of Invasive Carbapenem-Resistant Klebsiella pneumoniae 
+Isolates Secondary to Gastrointestinal Colonization.
+
+Maugeri G(1), Calvo M(2), Bongiorno D(1), Bivona D(1), Migliorisi G(3), 
+Privitera GF(4), Scalia G(1)(2), Stefani S(1)(2).
+
+Author information:
+(1)Microbiology Section, Department of Biomedical and Biotechnological Science, 
+University of Catania, Via Santa Sofia 97, 95123 Catania, Italy.
+(2)U.O.C. Laboratory Analysis Unit, A.O.U. "Policlinico-San Marco", Via Santa 
+Sofia 78, 95123 Catania, Italy.
+(3)U.O.C. Laboratory Analysis Unit, A.O. "G.F. Ingrassia", Corso Calatafimi 
+1002, 90131 Palermo, Italy.
+(4)Department of Clinical and Experimental Medicine, Bioinformatics Unit, 
+University of Catania, Via Santa Sofia 97, 95123 Catania, Italy.
+
+Klebsiella pneumoniae represent a common invasive infection etiological agent, 
+whose potential carbapenem-resistance and hypermucoviscosity complicate the 
+patient's management. Infection development often derives from gastrointestinal 
+colonization; thus, it is fundamental to monitor asymptomatic K. pneumoniae 
+colonization through surveillance protocols, especially for intensive care and 
+immunocompromised patients. We described a six-month routine screening protocol 
+from the Policlinico of Catania (Italy), while blood samples were collected from 
+the same patients only in cases of a systemic infection suspicion. All the 
+patients who had dissemination episodes were furtherly investigated through 
+next-generation sequencing, analyzing both colonizing and disseminating strains. 
+This study documents emerging invasive sequence types such as ST101, ST307, and 
+ST395, mainly revealing blaNDM or blaKPC genes, along with siderophores and 
+hyperproduction capsule markers as virulence factors. Most of the detected 
+factors are presumably related to a specific plasmid content, which are 
+extremely varied and rich. In conclusion, active surveillance through sequencing 
+is essential to enhance awareness of local epidemiology within high-risk 
+multi-drug resistance areas. A random sequencing analysis on the most warning 
+microorganisms could enhance sequence typing (ST) awareness within specific 
+settings, allowing for better prevention control strategies on their eventual 
+persistence or diffusion.
+
+DOI: 10.3390/microorganisms13010089
+PMCID: PMC11767272
+PMID: 39858857
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+3390/antibiotics14010085.
+
+The Evolution of Antimicrobial Resistance in Acinetobacter baumannii and New 
+Strategies to Fight It.
+
+Scoffone VC(1), Trespidi G(1), Barbieri G(1), Arshad A(1), Israyilova A(2)(3), 
+Buroni S(1).
+
+Author information:
+(1)Department of Biology and Biotechnology, University of Pavia, 27100 Pavia, 
+Italy.
+(2)Laboratory of Microbiology, Center of Excellence, Baku State University, 
+AZ1148 Baku, Azerbaijan.
+(3)Department of Biomedical Materials by ICESCO, Baku State University, AZ1148 
+Baku, Azerbaijan.
+
+Acinetobacter baumannii is considered one of the prioritized ESKAPE 
+microorganisms for the research and development of novel treatments by the World 
+Health Organization, especially because of its remarkable persistence and drug 
+resistance. In this review, we describe how this can be acquired by the 
+enzymatic degradation of antibiotics, target site modification, altered membrane 
+permeability, multidrug efflux pumps, and their ability to form biofilms. Also, 
+the evolution of drug resistance in A. baumannii, which is mainly driven by 
+mobile genetic elements, is reported, with particular reference to 
+plasmid-associated resistance, resistance islands, and insertion sequences. 
+Finally, an overview of existing, new, and alternative therapies is provided.
+
+DOI: 10.3390/antibiotics14010085
+PMCID: PMC11760889
+PMID: 39858372
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+Antibiotics (Basel). 2025 Jan 6;14(1):42. doi: 10.3390/antibiotics14010042.
+
+Genomic Characterization of Carbapenemase-Producing Enterobacteriaceae from 
+Clinical and Epidemiological Human Samples.
+
+Tristancho-Baró A(1)(2), Franco-Fobe LE(1)(2), Ariza MP(1)(2), Milagro A(1)(2), 
+López-Calleja AI(1)(2), Fortuño B(1)(2), López C(1)(2), Latorre-Millán M(2), 
+Clusa L(2), Martínez R(3), Torres C(4), Rezusta A(1)(2).
+
+Author information:
+(1)Clinical Microbiology Laboratory, Miguel Servet University Hospital, 50009 
+Zaragoza, Spain.
+(2)Research Group on Difficult to Diagnose and Treat Infections, Institute for 
+Health Research Aragon, Miguel Servet University Hospital, 50009 Zaragoza, 
+Spain.
+(3)Infectious Diseases Department, Miguel Servet University Hospital, 50009 
+Zaragoza, Spain.
+(4)Area of Biochemistry and Molecular Biology, One Health-UR Research Group, 
+University of La Rioja, 26006 Logroño, Spain.
+
+Background/Objectives: Infections caused by multidrug-resistant (MDR)bacteria 
+pose a significant public health threat by worsening patient outcomes, 
+contributing to hospital outbreaks, and increasing health and economic burdens. 
+Advanced genomic tools enhance the detection of resistance genes, virulence 
+factors, and high-risk clones, thus improving the management of MDR infections. 
+In the Autonomous Community of Aragon, the diversity and incidence of 
+carbapenemase-producing Enterobacteriaceae (CPE) have increased during the last 
+years. This study analyses CPE trends at a tertiary hospital in Spain from 2021 
+to 2023, aiming to optimize personalized medicine. Methods: CPE isolates were 
+the first isolate per patient, year, species, and carbapenemase from January 
+2021 to December 2023. Additional metadata were collected from the laboratory's 
+information system. Antibiotic susceptibility testing was performed by broth 
+microdilution. Whole-genome sequencing (WGS) was performed using Illumina short 
+reads. De novo assembly was used to generate draft genomes in order to determine 
+their complete taxonomic classification, resistome, plasmidome, sequence type 
+(ST), core-genome multilocus sequence typing (cgMLST), and phylogenetic 
+relationships using a suite of bioinformatics tools and in-house scripts. 
+Results: Between 2021 and 2023, 0.4% out of 38,145 Enterobacteriaceae isolates 
+were CPE. The CPE rate tripled in 2022 and doubled again in 2023. The most 
+common species was Klebsiella pneumoniae (51.8%) and the most common 
+carbapenemase was blaOXA-48. WGS revealed concordant species identification and 
+the carbapenemase distribution in detail. Resistance rates to critical 
+antibiotics, such as carbapenems, were variable, but in most cases were above 
+70%. Genetic diversity was observed in WGS and phylogenetic analyses, with 
+plasmids often mediating carbapenemase dissemination. Conclusions: The 
+increasing rate of CPE in healthcare settings highlights a critical public 
+health challenge, with limited treatment options. Genomic characterization is 
+essential to understanding resistance mechanisms, aiding therapy, limiting 
+outbreaks, and improving precision medicine.
+
+DOI: 10.3390/antibiotics14010042
+PMCID: PMC11761283
+PMID: 39858329
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+Foods. 2025 Jan 16;14(2):290. doi: 10.3390/foods14020290.
+
+From Traditional Typing to Genomic Precision: Whole-Genome Sequencing of 
+Listeria monocytogenes Isolated from Refrigerated Foods in Chile.
+
+Parra-Flores J(1), Daza-Prieto B(2), Chavarria P(1), Troncoso M(3), Stöger A(2), 
+Figueroa G(4), Mancilla-Rojano J(5), Cruz-Córdova A(5), Martinovic A(6), 
+Ruppitsch W(2)(6).
+
+Author information:
+(1)Department of Nutrition and Public Health, Universidad del Bío-Bío, Chillán 
+3780000, Chile.
+(2)Institute of Medical Microbiology and Hygiene, Austrian Agency for Health and 
+Food Safety, 1090 Vienna, Austria.
+(3)Fundación Instituto Profesional Duoc UC, Santiago 8240000, Chile.
+(4)Microbiology and Probiotics Laboratory, Institute of Nutrition and Food 
+Technology, Universidad de Chile, Santiago 7830490, Chile.
+(5)Immunochemistry Research Laboratory, Hospital Infantil de México Federico 
+Gómez, Mexico City 06720, Mexico.
+(6)Faculty of Food Technology, Food Safety and Ecology, University of Donja 
+Gorica, 81000 Podgorica, Montenegro.
+
+Ready-to-eat (RTE) foods are the most common sources of Listeria monocytogenes 
+transmission. Whole-genome sequencing (WGS) enhances the investigation of 
+foodborne outbreaks by enabling the tracking of pathogen sources and the 
+prediction of genetic traits related to virulence, stress, and antimicrobial 
+resistance, which benefit food safety management. The aim of this study was to 
+evaluate the efficacy of WGS in the typing of 16 L. monocytogenes strains 
+isolated from refrigerated foods in Chile, highlighting its advantages in 
+pathogen identification and the improvement of epidemiological surveillance and 
+food safety. Using cgMLST, a cluster was identified comprising 2 strains with 
+zero allele differences among the 16 strains evaluated. Ninety-four percent of 
+the isolates (15/16) were serotype 1/2b, and 88% of them (14/16) were ST5. All 
+strains shared identical virulence genes related to adhesion (ami, iap, lapB), 
+stress resistance (clpCEP), invasion (aut, iapcwhA, inlAB, lpeA), toxin 
+production (hly), and intracellular regulation (prfA), with only 13 strains 
+exhibiting the bcrBC and qacJ gene, which confer resistance to quaternary 
+ammonium. The pCFSAN010068_01 plasmids were prevalent, and insertion sequences 
+(ISLs) and composite transposons (cns) were detected in 87.5% of the strains. 
+The presence of various antibiotic resistance genes, along with resistance to 
+thermal shocks and disinfectants, may provide L. monocytogenes ST5 strains with 
+enhanced environmental resistance to the hygiene treatments used in the studied 
+food production plant.
+
+DOI: 10.3390/foods14020290
+PMCID: PMC11765429
+PMID: 39856956
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+J Infect. 2025 Jan 22;90(3):106421. doi: 10.1016/j.jinf.2025.106421. Online
+ ahead of print.
+
+An MDR Salmonella Enteritidis sublineage associated with gastroenteritis 
+outbreaks and invasive disease in China.
+
+Zheng X(1), Xiang Y(2), Li X(2), Du X(2), Wang Y(2), Tian S(2), Xue J(2), Huang 
+Y(2), Liu H(2), Wang Q(2), Liu H(2), Wang H(2), Wang C(2), Yang M(2), Jia H(2), 
+Wang L(2), Xu X(3), Song L(4), Song H(5), Qiu S(6).
+
+Author information:
+(1)Center for Disease Control and Prevention of Chinese PLA, Beijing, China; 
+College of Life Science and Technology, Beijing University of Chemical 
+Technology, Beijing, China.
+(2)Center for Disease Control and Prevention of Chinese PLA, Beijing, China.
+(3)Shanghai Municipal Center for Disease Control and Prevention, Shanghai, 
+China. Electronic address: xxb72@sina.com.
+(4)College of Life Science and Technology, Beijing University of Chemical 
+Technology, Beijing, China. Electronic address: songlihua@gmail.com.
+(5)Center for Disease Control and Prevention of Chinese PLA, Beijing, China. 
+Electronic address: hongbinsong@263.net.
+(6)Center for Disease Control and Prevention of Chinese PLA, Beijing, China. 
+Electronic address: qiushf0613@hotmail.com.
+
+OBJECTIVES: Salmonella enterica serovar Enteritidis (S. Enteritidis) is a 
+commonly reported pathogen which adapts to multiple hosts and causes critical 
+disease burden at a global level. Here, we investigated a recently derived 
+epidemic sublineage with multidrug resistance (MDR), which have caused extended 
+time-period and cross-regional gastroenteritis outbreaks and even invasive 
+nontyphoidal Salmonella disease (iNTS) in China.
+METHODS: Whole-genome sequencing and antimicrobial resistance (AMR) testing were 
+applied to 729 Chinese S. Enteritidis isolates in relation to gastroenteritis 
+outbreaks, gastrointestinal-sporadic and iNTS infections, spanning 28 years 
+(1994-2021) in China. Phylogenomic analysis was performed to explore the 
+population structure and evolutionary history of the Chinese isolates within a 
+global context. Molecular investigations of AMR genes, virulence factors, mobile 
+genetic elements and pan-genomes were also performed.
+RESULTS: The Chinese S. Enteritidis collections exhibited a high level of 
+multidrug resistance (MDR), including high resistance to nalidixic acid 
+(97.67%). Notably, the multidrug resistance rate of iNTS strains has 
+significantly increased over the past decade. Phylogenomic analysis showed that 
+the majority of the Chinese isolates (98.63%) were distributed in the global 
+pandemic lineage L1, while the other lineages were highly continent-specific. 
+Particularly, the Chinese isolates were predominantly distributed in sublineages 
+L1.2 (37.45%) and L1.3 (59.26%), forming two main Chinese clades (MCC1&2). The 
+most recent common ancestor of MCC1&2 dated back to 1944 and 2004, respectively. 
+The lineage L1, especially MCC1&2, harbored the most amount of AMR determinants 
+and virulence genes, which was mainly due to the presence of a hybrid 
+virulence-resistance plasmid and coexistence of different types of AMR plasmids 
+in S. Enteritidis.
+CONCLUSIONS: S. Enteritidis has evolved unique clonal clusters, MCC1&2, with 
+critical MDR in China, which phylogenetically constitute an extension of the 
+globally epidemic lineage and were characterized by distinct genetic traits. 
+These clades have induced extensive outbreaks of gastroenteritis and serious 
+cases of iNTS in China, underscoring the pressing nature and severity of this 
+public health crisis. Implementing the One-Health strategy, longstanding routine 
+surveillance and further genomic epidemiological studies are urgently required 
+to capture epidemics, monitor changes in bacterial populations and determine the 
+consequent risk to global public health.
+
+Copyright © 2025. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jinf.2025.106421
+PMID: 39855357
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+Curr Issues Mol Biol. 2025 Jan 16;47(1):56. doi: 10.3390/cimb47010056.
+
+Insights from a Genome-Wide Study of Pantoea agglomerans UADEC20: A Promising 
+Strain for Phosphate Solubilization and Exopolysaccharides Production.
+
+Elizondo-Reyna E(1), Martínez-Montoya H(2), Tamayo-Ordoñez Y(3), Cruz-Hernández 
+MA(3), Carrillo-Tripp M(4), Tamayo-Ordoñez MC(1), Sosa-Santillán GJ(1), 
+Rodríguez-de la Garza JA(1), Hernández-Guzmán M(5), Bocanegra-García V(3), 
+Acosta-Cruz E(1).
+
+Author information:
+(1)Departamento de Biotecnología, Facultad de Ciencias Químicas, Universidad 
+Autónoma de Coahuila, Saltillo C.P. 25280, Mexico.
+(2)Departamento de Microbiología, U.A.M. Reynosa Aztlán, Universidad Autónoma de 
+Tamaulipas, Reynosa C.P. 88740, Mexico.
+(3)Laboratorio Interacción Ambiente-Microorganismo, Centro de Biotecnología 
+Genómica, Instituto Politécnico Nacional, Reynosa C.P. 88710, Mexico.
+(4)Biomolecular Diversity Laboratory, Centro de Investigación y de Estudios 
+Avanzados del Instituto Politécnico Nacional, Unidad Monterrey, Vía del 
+Conocimiento 201, PIIT, Apodaca C.P. 66600, Mexico.
+(5)Departamento de Innovación Biomédica, Centro de Investigación Científica y de 
+Educación Superior de Ensenada (CICESE), Ensenada C.P. 22860, Mexico.
+
+The genome sequence of Pantoea agglomerans UADEC20 is presented, which is a 
+strain isolated from agricultural fields in northeast Mexico. The genome was 
+assembled into 13 scaffolds, constituting a total chromosome size of 4.2 Mbp, 
+with two of the scaffolds representing closed plasmids. The strain exhibits 
+activity in phosphate solubilization and exopolysaccharide (EPS) production and 
+secretion; therefore, we explored its biotechnological potential via its genome 
+sequencing and annotation. Genomic analyses showed that a total of 57 and 58 
+coding sequences (CDSs) related to phosphate solubilization and EPS production 
+were identified within its genome, in addition to a reduced number of CDSs 
+related to drug resistance and phages. The comprehensive set of genes supporting 
+phosphate solubilization, EPS synthesis, and secretion, along with its low 
+virulence and antibiotic resistance levels, justify further research for its 
+potential biotechnological application and possible use as a plant 
+growth-promoting agent in the field. These findings suggest a unique genetic 
+background in the P. agglomerans UADEC20 strain.
+
+DOI: 10.3390/cimb47010056
+PMCID: PMC11763638
+PMID: 39852170
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+Discov Med. 2025 Jan;37(192):42-54. doi: 10.24976/Discov.Med.202537192.4.
+
+Mechanism of Corylin Inhibiting the Development of Osteosarcoma: Regulating 
+HMGB1/p38 MAPK Signaling.
+
+Yan R(1), Wang H(1), Cai Z(1), Zeng Z(1).
+
+Author information:
+(1)Department of Orthopedics, Quanzhou First Hospital Affiliated to Fujian 
+Medical University, 362000 Quanzhou, Fujian, China.
+
+BACKGROUND: High-mobility group box 1 (HMGB1) participates in the progression of 
+osteosarcoma (OS) through the p38 mitogen-activated protein kinase (MAPK) 
+signaling pathway. Corylin, one of the active components of Psoralea corylifolia 
+L., has anti-oxidant, anti-inflammatory, and anti-tumor effects. This study 
+investigates the association between corylin and HMGB1, and their impact and 
+mechanism of action on OS.
+METHODS: OS cells and osteoblasts were transfected with/without HMGB1 
+overexpression plasmid and siHMGB1. Cell viability was examined using the Cell 
+Counting Kit-8 (CCK-8) assay after treatment with corylin (0, 2.5, 5, 10, 30 
+μM). The effects of corylin on cell malignant behaviors were examined by cell 
+function assays. The mRNA expression level of high-mobility group box 1 (HMGB1) 
+was determined by reverse transcription-quantitative polymerase chain reaction 
+(RT-qPCR). The protein levels of HMGB1, matrix metalloproteinase-2 (MMP-2), 
+MMP-9, and alpha-smooth muscle actin (α-SMA) were measured by western blotting. 
+The effects of corylin and HMGB1 on the expression of p38 MAPK signaling 
+pathway-related proteins were also assessed.
+RESULTS: Corylin decreased OS cell viability, proliferation, migration, and 
+invasion but increased apoptosis in a concentration-dependent manner. Corylin 
+concentration-dependently suppressed the levels of HMGB1, MMP-2, MMP-9, and 
+α-SMA. Overexpression of HMGB1 was partially reversed, while knockdown of HMGB1 
+enhanced the above effects of corylin.
+CONCLUSION: Corylin inhibits OS cell migration and invasion through regulation 
+of the HMGB1-mediated p38 MAPK signaling pathway.
+
+DOI: 10.24976/Discov.Med.202537192.4
+PMID: 39851222 [Indexed for MEDLINE]
+
+Avian Pathol. 2025 Jan 24:1-66. doi: 10.1080/03079457.2025.2458601. Online
+ahead  of print.
+
+Comparative Genomic Analysis Reveals the Emergence and Dissemination of 
+Different Salmonella enterica serovar Gallinarum biovar Gallinarum Lineages in 
+Brazil.
+
+Kipper D(1), Orsi RH(2), Souza Zanetti N(1), Carli S(1), Mascitti AK(3), Fonseca 
+ASK(4), Ikuta N(4), Wiedmann M(2), Lunge VR(3)(4).
+
+Author information:
+(1)Molecular Diagnostics Laboratory, Lutheran University of Brazil (ULBRA), 
+Canoas, Rio Grande do Sul, Brazil.
+(2)Department of Food Science, Cornell University, Ithaca, Nova York, United 
+States.
+(3)Institute of Biotechnology, University of Caxias do Sul (UCS), Caxias do Sul, 
+Rio Grande do Sul, Brazil, Rio Grande do Sul, Brazil.
+(4)Simbios Biotecnologia, Cachoeirinha, Rio Grande do Sul, Brazil.
+
+AbstractSalmonella enterica serovar Gallinarum biovar Gallinarum is a pathogenic 
+bacterium that causes fowl typhoid (FT), affecting chicken flocks worldwide. 
+This study aimed to evaluate the emergence, dissemination and genomic profile of 
+S. Gallinarum lineages from Brazil. Twelve whole-genomes sequences (WGS) of 
+different S. Gallinarum strains isolated from Brazilian poultry farms (2014 to 
+2018) were obtained and used to construct a dataset with other 31 previously 
+published data (five more from Brazil). Brazilian strains phylogenetic 
+diversity, temporal evolution and antimicrobial resistance/virulence genomic 
+profile were evaluated. Sixteen (94.1%) Brazilian strains were from sequence 
+type ST78 and one (5.9%) was from ST331. All S. Gallinarum strains clustered 
+into five different clades/lineages (I to V), all circulating in South America 
+and four (I, II, III, IV) in Brazil. The time of most recent common ancestor 
+(tMRCA) of all strains was many centuries ago, but the lineages detected in 
+South America (II and V) had tMRCA in recent decades. IncFIC(FII), IncFII(S) and 
+ColRNAI were plasmid replicons frequently found in the lineages from Brazil, but 
+antimicrobial resistance genes were scarce. Only two resistance genes 
+(aac(6')-Iaa and mdf(A)) were detected in most strains, while other two 
+(blaTEM-106 and fosA3) were present in some isolates. It was also observed 
+important differences in the virulence genomic profile of the different 
+lineages, highlighting lineage IV, which does not carry the very important 
+Salmonella pathogenicity island 1 (SPI1) genes cluster. In summary, this study 
+reveals the emergence and dissemination of four different lineages of S. 
+Gallinarum in Brazil.
+
+DOI: 10.1080/03079457.2025.2458601
+PMID: 39850984
+
+Drug Resist Updat. 2025 Jan 21;79:101204. doi: 10.1016/j.drup.2025.101204. 
+Online ahead of print.
+
+Global dissemination of Klebsiella pneumoniae in surface waters: Genomic 
+insights into drug resistance, virulence, and clinical relevance.
+
+Rolbiecki D(1), Kiedrzyńska E(2), Czatzkowska M(3), Kiedrzyński M(4), 
+Korzeniewska E(3), Harnisz M(3).
+
+Author information:
+(1)European Regional Centre for Ecohydrology of the Polish Academy of Sciences, 
+Lodz 90-364, Poland. Electronic address: d.rolbiecki@erce.unesco.lodz.pl.
+(2)European Regional Centre for Ecohydrology of the Polish Academy of Sciences, 
+Lodz 90-364, Poland; University of Lodz, Faculty of Biology and Environmental 
+Protection, UNESCO Chair on Ecohydrology and Applied Ecology, Lodz 90-237, 
+Poland. Electronic address: e.kiedrzynska@erce.unesco.lodz.pl.
+(3)University of Warmia and Mazury in Olsztyn, Faculty of Geoengineering, 
+Department of Water Protection Engineering and Environmental Microbiology, 
+Olsztyn 10-720, Poland.
+(4)University of Lodz, Faculty of Biology and Environmental Protection, 
+Department of Biogeography, Paleoecology and Nature Conservation, Lodz 90-237, 
+Poland.
+
+The aquatic environment is a major pathway for the spread of antibiotic 
+resistance (AR) among microorganisms. Among these, Klebsiella pneumoniae reveals 
+high genome plasticity, adaptability, and the ability to colonize humans, 
+animals, and the natural environment, awarding it a significant role in the 
+spread of AR. This work presents an in-depth analysis of the whole sequences of 
+149 K. pneumoniae genomes isolated from surface waters available in databases. 
+The sequences were obtained from 20 countries in five continents. The analyses 
+showed a high genomic diversity of isolates, classifying them into 94 unique 
+sequence types. The isolates carried numerous virulence and drug resistance 
+determinants in their genomes, including genes for carbapenem and colistin 
+resistance. The critical resistance genes were located on plasmids, indicating 
+their high mobility and ease of access in water environments. Sublineage 258 
+members, in particular ST11, have been identified as important carriers of both 
+important drug resistance determinants and key virulence factors, thus posing a 
+substantial threat to human health. Our analysis revealed the direct 
+transmission of drug-resistant and virulent clinical strains to the natural 
+environment, highlighting the role of K. pneumoniae in the dissemination of drug 
+resistance within the "One Health" framework. Surface waters represent an 
+environment conducive to the spread and evolution of drug resistance, and K. 
+pneumoniae plays a significant role in this process by providing 
+clinically-significant antibiotic resistance genes to environmental recipients.
+
+Copyright © 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.drup.2025.101204
+PMID: 39848163
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+NPJ Antimicrob Resist. 2025 Jan 7;3(1):3. doi: 10.1038/s44259-024-00073-0.
+
+Global phylogeography and genetic characterization of carbapenem and 
+ceftazidime-avibactam resistant KPC-33-producing Pseudomonas aeruginosa.
+
+Zhou L(#)(1), Yao J(#)(1), Zhang Y(#)(1), Zhang X(1), Hu Y(1), Liu H(1), He 
+J(1), Yu Y(2), Chen M(3), Tu Y(4), Li X(5).
+
+Author information:
+(1)Laboratory Medicine Center, Department of Clinical Laboratory, Zhejiang 
+Provincial People's Hospital, Affiliated People's Hospital, Hangzhou Medical 
+College, Hangzhou, 310014, China.
+(2)Center for General Practice Medicine, Department of Infectious Diseases, 
+Zhejiang Provincial People's Hospital, Affiliated People's Hospital, Hangzhou 
+Medical College, Hangzhou, Zhejiang, 310014, China.
+(3)Center for General Practice Medicine, Department of Infectious Diseases, 
+Zhejiang Provincial People's Hospital, Affiliated People's Hospital, Hangzhou 
+Medical College, Hangzhou, Zhejiang, 310014, China. zjpacmh@126.com.
+(4)Department of Critical care medicine, Tongde Hospital of Zhejiang Province, 
+#234 Gucui Road, Hangzhou, Zhejiang, 310012, China. Tuyuexing1988@163.com.
+(5)Laboratory Medicine Center, Department of Clinical Laboratory, Zhejiang 
+Provincial People's Hospital, Affiliated People's Hospital, Hangzhou Medical 
+College, Hangzhou, 310014, China. lixi_0611@163.com.
+(#)Contributed equally
+
+Ceftazidime-avibactam (CZA) is currently one of the last resorts used to treat 
+infections caused by carbapenem-resistant Enterobacteriaceae and Pseudomonas 
+aeruginosa. However, KPC variants have become the main mechanism mediating CZA 
+resistance in KPC-producing gram-negative bacteria after increasing the 
+application of CZA. Our previous study revealed that CZA-resistant KPC-33 had 
+emerged in carbapenem-resistant P. aeruginosa (CRPA) and had resulted in death 
+due to hypervirulence and extensive drug resistance; however, the evolutionary 
+path of KPC-33-producing CRPA has not been investigated. Here, we observed the 
+emergence of blaKPC-33 in CRPA under drug pressure, leading to resistance to 
+CZA. We further elucidated the pathway of resistance development due to blaKPC 
+mutations in P. aeruginosa. Three KPC-producing P. aeruginosa (KPC-PA) strains 
+(including one blaKPC-33-positive strain and two blaKPC-2-positive strains) were 
+successively isolated from a hospitalized patient. The blaKPC-33-positive 
+CZA-resistant strain SRPA0656 (CZA MIC >128 μg/mL, imipenem MIC = 32 μg/mL) was 
+isolated after the blaKPC-2-positive P. aeruginosa SRP2863 (CZA MIC = 1 μg/mL, 
+imipenem MIC >128 μg/mL) was treated with CZA. The subsequent use of carbapenems 
+to treat the infection led to the re-emergence of the KPC-2-producing strain 
+SRPA3703. Additionally, we collected four other KPC-33-producing P. aeruginosa 
+strains. Antimicrobial susceptibility testing revealed that all the 
+KPC-33-bearing P. aeruginosa strains in this study were multidrug-resistant but 
+susceptible to colistin and amikacin. Whole-genome sequencing indicated that 
+blaKPC-33 was located on two Tn4401-like transposons contained in the plasmids 
+and that most of these plasmids could be transferred into P. aeruginosa PAO1Rif 
+isolates. Growth rate determination demonstrated that the relative growth rate 
+of P. aeruginosa harboring blaKPC-33 was faster than that of P. aeruginosa 
+harboring blaKPC-2 in the logarithmic phase. Global phylogenetic analysis 
+revealed that most KPC-PA strains were isolated from China and the USA. MLST 
+revealed that the most common ST in KPC-PA was ST463, which was detected only in 
+China, and that all the strains carried blaKPC-2 or its derivatives. These 
+results indicated that the use of CZA for the treatment of KPC-2-producing P. 
+aeruginosa may have contributed to the evolution of KPC-33. The widespread 
+dissemination of KPC-PA (especially the ST463) and Tn4401 transposons may 
+increase the spread of CRPA isolates carrying blaKPC-33. Close attention to the 
+development of resistance to CZA during clinical treatment of CRPA infection and 
+monitoring CZA-resistant strains is necessary to prevent further spread.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s44259-024-00073-0
+PMCID: PMC11721088
+PMID: 39843962
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+1016/j.tim.2024.12.013. Online ahead of print.
+
+Cutting-edge tools for unveiling the dynamics of plasmid-host interactions.
+
+Yang QE(1), Gao JT(2), Zhou SG(1), Walsh TR(3).
+
+Author information:
+(1)College of Resources and Environment, Fujian Agriculture and Forestry 
+University, Fuzhou 350002, China.
+(2)Key BioAI Synthetica Lab for Natural Product Drug Discovery, National and 
+Local United Engineering Laboratory of Natural Biotoxin, College of Bee and 
+Biomedical Sciences, Fujian Agriculture and Forestry University, Fuzhou 350002, 
+China. Electronic address: jgaotao@gmail.com.
+(3)Ineos Oxford Institute for Antimicrobial Research, Department of Biology, 
+University of Oxford, Oxford OX1 3RE, UK. Electronic address: 
+timothy.walsh@biology.ox.ac.uk.
+
+The plasmid-mediated transfer of antibiotic resistance genes (ARGs) in complex 
+microbiomes presents a significant global health challenge. This review examines 
+recent technological advancements that have enabled us to move beyond the 
+limitations of culture-dependent detection of conjugation and have enhanced our 
+ability to track and understand the movement of ARGs in real-world scenarios. We 
+critically assess the applications of single-cell sequencing, fluorescence-based 
+techniques and advanced high-throughput chromatin conformation capture (Hi-C) 
+approaches in elucidating plasmid-host interactions at unprecedented resolution. 
+We also evaluate emerging techniques such as CRISPR-based phage engineering and 
+discuss their potential for developing targeted strategies to curb ARG 
+dissemination. Emerging data derived from these technologies have challenged our 
+previous paradigms on plasmid-host compatibility and an awareness of an emerging 
+uncharted realm for ARGs.
+
+Copyright © 2025 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tim.2024.12.013
+PMID: 39843314
+
+Conflict of interest statement: Declaration of interests There are no interests 
+to declare.
