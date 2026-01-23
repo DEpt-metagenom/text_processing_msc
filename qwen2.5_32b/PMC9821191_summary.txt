@@ -1,0 +1,15 @@
+### Összefoglalás
+
+#### Fő témák:
+1. **Ovarian Cancer (Öregbujkó)**: HRT-nak nincs jelentős kiegészítő hatása az öregbujkóság risztáján, de Perri et al. (2015) kutatásától adódva, a promiogén terápia 66%-os riszktömegzését javasolja a BRCA1 mutánsoknak.
+2. **Breast Cancer (Bujkó)**: HRT-nak nincs jelentős kiegészítő hatása a bujkóság risztáján, de RRSO (risk-reducing surgery) valószínűleg kisebb és nem konzisztens riszktömegzését javasolja.
+3. **Endometrial Cancer (Bujkó)**: HRT-nak nincs jelentős kiegészítő hatása az endometriális bujkóság risztáján, de Segev et al. (2015) kutatásától adódva, a BRCA1 mutánsoknak 27%-os riszktömegzését javasolja.
+
+#### Visszatérő minták:
+- Kotsopoulos et al., Eisen et al., Kotsopoulos et al. (2016), Rebbeck et al. (1999, 2005), Domchek et al. (2011) és Kotsopoulos et al. (2018) az öregbujkóság kapcsán.
+- Segev et al. (2015) az endometriális bujkóság kapcsán.
+
+#### Fontos megállapítások:
+- HRT-nak nincs jelentős kiegészítő hatása a BRCA mutánsoknak öregbujkóság, bujkóság és endometriális bujkóság risztáján.
+- A hivatkozott kutatások nem konzisztensek, tehát további kutatás szükséges a teljes értelmezéshez.
+- Az HRT használata azonban kiegyensúlyozott döntésekre és orvosi tanácsra van szükség, mivel potenciális előnyei és kockázatok közötti egyensúlyt kell megkeresni.

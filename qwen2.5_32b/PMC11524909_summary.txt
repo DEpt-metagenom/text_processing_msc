@@ -1,0 +1,20 @@
+### Összefoglalás
+
+#### Fő témák:
+A szöveg fő témái a tumor-infiltráló immuncellák analízise, a szenkharhogyon (Hedgehog) signálisztika, a breast cancer klaszterezése és jellemzőjei, a ferroptózis és az immunoterápia kapcsolata, valamint a tumor mikrokörnyezetben történő metástázis.
+
+#### Visszatérő minták:
+1. **Tumor-infiltráló immuncellák analízise**: Sok cikk (pl.: TIMER2.0, GLI1) fókuszál a tumor-infiltráló immuncellák jellemzőjeire és azok hatására.
+2. **Hedgehog signálisztika**: Néhány cikk (pl.: WW45, Roelink H.) említik a Hedgehog signálisztika szerepét a sarkomakban.
+3. **Breast cancer klaszterezése és jellemzőjei**: Prat A., Sørlie T. stb. fókuszálnak a breast cancer klaszterezésére és a különböző subklaszterek jellemzőjeire.
+4. **Ferroptózis és immunoterápia kapcsolata**: Néhány cikk (pl.: Yang F., Wu Q.) fókuszál a ferroptózis és az immunoterápia közötti kapcsolatokra.
+5. **Metástázis**: Vannak cikkek, amelyek metástázis jellemzőit vizsgálnak (pl.: Riggio A., Xu X.).
+
+#### Fontos megállapítások:
+1. **TIMER2.0** segíthet a tumor-infiltráló immuncellák analízésében, és lehetővé teszi a patogének immunológiai reakcióinak értelmezését.
+2. **Hedgehog signálisztika** szerepe a sarkomakban negatív, azaz ellenkező hatással rendelkezik a tumornak.
+3. **Breast cancer klaszterezése** segíthet a diagnózis és a terápia végrehajtásának javításában.
+4. **Ferroptózis** és az immunoterápia közötti kapcsolatok érdekében új kombinált terápiák fejlesztésére lehet szükség.
+5. **Metástázis** jellemzőjei a sarkomak és más tumorok metástázisának megértésében fontos.
+
+Ezek a fő témák, visszatérő minták és fontos megállapítások segítenek a kutatókban és orvosi terápiai alkalmazásokban a tumor-infiltráló immuncellák, szenkharhogyon signálisztika, breast cancer klaszterezése, ferroptózis és metástázis kérdései megértésében.

@@ -1,0 +1,16 @@
+### Összefoglalás
+
+#### Fő témák:
+1. **Metaplastic Breast Cancer (MpBC)**: Ez a kutatás fókuszál az agyancsó breast cancer (breast cancer) típusának genetikai előrejelzésére.
+2. **BRCA1 Variációk**: A tanulmány főleg a BRCA1 genben található patogénikus variációk szerepét vizsgálja az MpBC-ban.
+
+#### Visszatérő minták:
+- **Korábbi Kutatói Munkák**: Az előző kutatások, amelyek több résztvevőt tartalmaznak (például eset-részletes vizsgálatok, ellenőrzések), a BRCA1 gen szerepét tükrözik az MpBC-ban.
+- **Aktuális Kutatás**: A jelen kutatás egy kiegészítő elemzés, amely összetett statisztikai módszerekkel és biológiai vizsgálatokkal a BRCA1 gen szerepét értékel.
+
+#### Fontos megállapítások:
+- **Genetikai Prediszíció**: A tanulmány jelentős információt nyújt az MpBC-ban tapasztalt genetikai előrejelzésről, különösen a BRCA1 gen szerepéről.
+- **Agyancsó Breast Cancer**: Az MpBC egy nagyon gyakorlatlan és agresszív breast cancer típus, amelynek genetikai előrejelzési információkra van keresendő.
+
+### Összefoglalás
+A tanulmány fókuszál a metaplastic breast cancer (MpBC) genetikai előrejelzésére, specifikusan az agyancsó breast cancer típusának BRCA1 gen szerepéről. A kutatás összetett statisztikai módszerekkel és biológiai vizsgálatokkal értékel a korábbi kutatói munkák eredményeit, amelyek a BRCA1 gen szerepét tükrözik az MpBC-ban. A tanulmány jelentős információt nyújt az agyancsó breast cancer genetikai előrejelzési területén, különösen a BRCA1 gen szerepéről.

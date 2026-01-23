@@ -1,0 +1,30 @@
+A szöveg alapján egy kis összefoglaló és fontos információk gyűjtése:
+
+1. A kutatás a FAT4 (cadherin atypical) genen és a TCGA adatbázisban megtalált mutációkkal foglalkozik.
+
+2. Az eredményeket a sémantikus szövegszűrő használva kiértékeltek, ami az alábbi információkat hozta létre:
+
+- A FAT4 genen 1596 somatik pontmutációja található a TCGA adatbázisban.
+- Ez a mutáció 21 különböző tumor típusban fordul elő, beleértve a haj, bőr, és tompa karboni károkat is.
+
+3. A kutatások eredményeit az alábbi statisztikai mérkőzésekkel összehasonlították:
+
+- Összesen 1026 különböző genenbázis mutáció található a TCGA adatokban.
+- A FAT4 genen 0,15%-os szabadságosságú.
+
+4. Az eredményeket a GSEA (Gene Set Enrichment Analysis) és KEGG (Kyoto Encyclopedia of Genes and Genomes) útvonalak használatával értékeltek meg.
+
+5. A kutatások főbb találmányai:
+
+- A FAT4 genen szabadságosságának korlátozott változása.
+- A genen kapcsolata a károk fejlődésével és a hípó útvonalakkal.
+
+6. A kutatások célja azonosítani a potenciális terápia célgeneket, valamint megérteni a károk folyamatát.
+
+7. A FAT4 genen kapcsolódása a TGFBR2 útvonalhoz és a hípó útvonalhoz említve van.
+
+8. A kutatások eredményeit az overall survival (összetevőtelen életidő), disease-specific survival (betegség-egyenleges életidő) és disease-free survival (betegségnélküli életidő) mérkőzéseivel összehasonlították.
+
+9. A kutatások eredményei a cancer-associated fibroblasts (háttértárszerek) és az HPV (human papillomavirus) kapcsolódását is vizsgáltak.
+
+10. A miR-31-5p, TNS1, USP51, PI3K-AKT útvonalak szerepet játszanak a FAT4 genen és károk folyamata során.

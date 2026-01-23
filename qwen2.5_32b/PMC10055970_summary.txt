@@ -1,0 +1,30 @@
+### Összefoglalás
+
+#### Fő Témák:
+1. **Epigenetikai Modifikációk a Tumorfogásban**:
+   - Epigenetikai mekanizmusok, különösen a histon deaketylálás és az adnázis methylálás, fontos szerepet játszanak a tumorfogás folyamatában.
+2. **Terápia Előnye**:
+   - HDAC inhibitorok és DNA methyltransferáz (DNMT) inaktiválók potenciális terápia lehetőségei a húszoros tumezfogás kezelésében.
+3. **Precision Medicine**:
+   - Molekuláris profilozás segíthet az épigenetikai módosítások meghatározásában, ami további terápiastrategiák kialakítására szolgál.
+
+#### Visszatérő Minták:
+1. **HDAC és DNMT Inhibitorok**:
+   - HDAC inhibitorok a húszoros tumezfogás terápiajában előnyös eredményeket mutattak.
+2. **Kombinált Terápia**:
+   - Kombinált terápia megpróbálása, mint például a checkpoint inhibitorokkal és a PARP inhibitorokkal a húszoros tumezfogás kezelésében.
+3. **Precision Medicine**:
+   - Molekuláris profilozás segíthet az épigenetikai módosítások meghatározásában, ami további terápiastrategiák kialakítására szolgál.
+
+#### Fontos Megállapítások:
+1. **Epigenetikai Módosítások**:
+   - Az adnázis deaketylálása és az adnázis methylálása fontos szerepet játszanak a tumorfogás folyamatában.
+2. **Terápia Előnye**:
+   - HDAC inhibitorok potenciális terápia lehetőségek, amelyeket klinikai tanulmányok is tesznek ki.
+3. **Precision Medicine**:
+   - Molekuláris profilozás segíthet az épigenetikai módosítások meghatározásában, ami további terápiastrategiák kialakítására szolgál.
+4. **Gene Expression Analýzis**:
+   - Népszerű gene expression differenciációk a low-risk és high-risk csoportok között, amelyek potenciálisan biomarkerekké tehetők.
+
+### Összességében
+A szöveg felsorolja az épigenetikai mekanizmusok fontos szerepét a húszoros tumezfogásban, és javaslatot ad a terápia előnyeinek felhasználására. A HDAC inhibitorok potenciális terápia lehetőségeit is megjeleníti, valamint az épigenetikai módosítások meghatározásának fontosságát a precision medicine kialakításában.

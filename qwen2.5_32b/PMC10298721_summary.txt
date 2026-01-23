@@ -1,0 +1,20 @@
+### Összefoglalás
+
+#### Fő Témák
+- **BRCA1 és miRNA Biogenezis**: A kutatás fókuszál a BRCA1 molekulájának szerepére az miRNA biogenezisban, különösen a DROSHA microprocessor komplexen.
+- **Tumor Suppressor Függvény**: Az írás általában megmutatja, hogy a BRCA1 miRNA-biogenezisben való szerepje hatással van a tumor supresszor függvényre és a cancer fejlődésére.
+- **miRNA Célzás**: A miRNA-célzás specifikus genekre, különösen az "seed" területen való hatásra említ.
+
+#### Visszatérő Minták
+- **EGFR Expresszió**: A BRCA1 miRNA-146a segítségével regulálja az EGFR expresszióját.
+- **miRNA Profiling**: Az írás hivatkozik a The Cancer Genome Atlas (TCGA) projektre, amely nagyskalán való miRNA profilirozáson alapul.
+
+#### Fontos Megállapítások
+1. **Differenciálható miRNA Expresszió**: A BRCA1-szerű és nem-BRCA1-szerű brust karszabadulatok (BC) közötti miR-29 család tagjainak expressziós különbségek.
+   - **Specifikus Genek Célzása**: A miR-29 család DNMT3A és DNMT3B geneket célzók.
+   - **Függvénykövetkezmények**: A miR-29 család tagjainak alacsonyabb expressziójának következtében a DNMT3A/DNMT3B expressziója növekedik, ami hatással van az AD-methylációs paternokra.
+   - **Hormonális Receptorkiindulat**: A miR-29 család tagjainak expressziójának változása a hormonális receptorkiindulat (ER/PR) szerinti különbségekre is befolyásolódik.
+   - **Methylációs Paternok**: A miR-29 család tagjainak alacsonyabb expressziójának következtében a ESR1 és PGR genek AD-methylációs paternjei változnak, ami hatással van az hormonális receptorkiindulatra.
+
+### Összesszefoglalás
+A kutatás főbb találmányai a miR-29 család tagjainak szerepének leírása, amelyek DNMT3A/DNMT3B expresszióját regulálhatnak, ami hatással van az AD-methylációs paternokra ESR1 és PGR geneken. Ez a folyamat a BRCA1-szerű brust karszabadulatok fejlődésének vagy folyamán befolyásolódik.

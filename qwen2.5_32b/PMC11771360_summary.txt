@@ -1,0 +1,23 @@
+### Összefoglalás
+
+#### Fő Témák:
+- **Hormonális Kontracepció (HC) és Brácza Mutációk**: A kutatás fókuszál a hormonális kontracepció használata és azok közötti kapcsolatot, akik germline mutációkkal rendelkeznek a Brácza1 (BRCA1) vagy -2 (BRCA2) genben.
+- **Brácza1 Mutációs Végső Erősítése**: Az alapvető találatok szerint az HC használata növeli a BRCA1 mutációk tartalmazó nők breast cancer (BC) risztárát.
+- **Brácza2 Mutációs Végső Erősítése**: Az alapvető találatok szerint az HC használata nem jelentett jelentős növekedést a BRCA2 mutációk tartalmazó nők BC risztárának.
+
+#### Visszatérő Minták:
+- **Egyéb Kutyarádiás Kutatások**: A találatok összetartoznak korábbi kutatásokhoz, amelyek azt mutatták meg, hogy az HC használata növeli a BC risztárát, amely általában idővel megszűnik.
+- **Kis Esélyhalmaz**: A BRCA2 mutációk tartalmazó nők esetén a találatok nem jelentősnek tűntek, mivel az esélyhalmaz kisebb volt és inkonzisztens.
+
+#### Fontos Megállapítások:
+- **Méthodológia**: A kutatás nagy mintasizeggel (1500 nő) és több forrásból származó adatokkal rendelkezett, amelyeket használtak a statisztikai analízisekhez.
+- **Implikációk**: A BRCA1 mutációk tartalmazó nők esetén az HC használata növeli a BC risztárát, amelynek figyelembevételére szükség van a kontracepció döntéseken.
+- **Kefizetések**: A kutatás nagy mintasizeggel és komplex adatgyűjtési módszert használta, de a BRCA2 mutációk esetén kisebb esélyhalmaz és inkonzisztens találatok miatt további kutatásra van szükség.
+- **Súlyozott Kefizetések**: A nagy mintasizeg, több forrásból származó adatok gyűjtése és statisztikai analízise súlyozott a kutatás kefei.
+- **Kefizetések Korlátozása**: A kisebb esélyhalmaz, inkonzisztens találatok miatt a kutatás eredményei általánosságban korlátozhatók.
+
+#### Következtetések:
+- Az alapvető találatok azt javasolják, hogy a BRCA1 mutációk tartalmazó nők számára az HC használata során figyelembe kell venni a BC risztárát.
+- A BRCA2 mutációk esetén további kutatásokra van szükség, mivel a találatok kisebb esélyhalmaz és inkonzisztens voltak.
+
+A kutatás fontos információt nyújt arról, hogy az HC használata nem növeli a BC risztárát a BRCA1 mutációk tartalmazó nők számára, de további kutatásokra van szükség a BRCA2 mutációk esetén.

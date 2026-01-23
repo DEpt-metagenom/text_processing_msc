@@ -1,0 +1,24 @@
+### Összefoglalás
+
+#### Fő témák:
+A szöveg fő témái a BRCA1 és BRCA2 gen mutációkra alapuló terápiai megközelítéseinek kifejlesztésével, valamint a DNA módosítások detekciójának technikái.
+
+1. **BRCA Mutációk és Terápia**:
+   - **PARP Inhibitors in Breast and Ovarian Cancer**: Cullinane (2020) és Oh (2018) áttekintés a PARP inaktív terápiai alkalmazásainak, különösen az ősegyenléti BRCA mutációkban.
+   - **Survival Analysis and Meta-Analysis**: Shao (2021) meta-analízis a visszatérő minták keresésében az ősegyenléti BRCA mutációkban.
+
+2. **Technological Advancements**:
+   - **DNA Sequencing Technologies**: Mardis (2017), Levy (2016) és Liu et al. (2019) a következő generációs szélesek technikák fejlesztése.
+   - **Oxford Nanopore Technology**: David et al. (2017) az Oxford Nanopore szélesek technikájának alkalmazása az adatok analízise és a DNA módosítások detekciójára.
+
+#### Visszatérő minták:
+- A szövegben felsorolódó visszatérő minták a PARP inaktív terápiai alkalmazásai, különösen az ősegyenléti BRCA mutációkban. Ezek a minták a terápia hatékonyságának meghatározását és javítását segítenek.
+
+#### Fontos megállapítások:
+- A PARP inaktív terápia jelentősen fejleszthető az ősegyenléti BRCA mutációkban, különösen a brastumor és ováriumi tumorokon.
+- Az új szélesek technikák, mint például az Oxford Nanopore szélesek, segítenek a DNA módosítások detekciójának javítását és a terápia hatékonyságának meghatározását.
+- A ősegyenléti BRCA mutációk és az eredeti brastumorok közötti kapcsolat továbbra is kutatandó, hogy jobb terápiai megközelítéseket fejleszthetünk.
+
+### Összefoglalás
+
+A szöveg fő témái a BRCA1 és BRCA2 gen mutációkra alapuló terápiai megközelítéseinek kifejlesztésével, valamint a DNA módosítások detekciójának technikái. A visszatérő minták a PARP inaktív terápiai alkalmazásai, különösen az ősegyenléti BRCA mutációkban. Fontos megállapítások között szerepel, hogy a PARP inaktív terápia jelentősen fejleszthető az ősegyenléti BRCA mutációkban, és az új szélesek technikák segítenek a DNA módosítások detekciójának javítását.

@@ -1,0 +1,37 @@
+This study evaluated the combination of olaparib and trastuzumab in patients with HER2-positive advanced breast cancer (ABC) and germline BRCA mutations (BRCAm). Here are the key points:
+
+1. Study Design:
+   - OPHELIA was a phase II, open-label, single-arm study.
+   - It enrolled 5 patients from January to June 2023.
+
+2. Patient Population:
+   - Patients had HER2-positive ABC and BRCA1/2 germline mutations.
+   - They were pre-treated with trastuzumab and other systemic therapies.
+
+3. Treatment Regimen:
+   - Olaparib (300 mg BID) plus trastuzumab (8 mg/kg Q3W).
+   - Dose reductions of olaparib occurred in 2 patients due to toxicity.
+
+4. Primary Endpoint:
+   - The primary endpoint was met, with the combination showing efficacy and safety.
+
+5. Key Findings:
+   - Despite limited enrollment, the study suggests potential benefit from combining olaparib and trastuzumab.
+   - One patient achieved a partial response (PR), while another had stable disease (SD) for 10 months.
+
+6. Safety Profile:
+   - The combination was generally well-tolerated.
+   - No grade 4 or 5 adverse events were reported.
+
+7. Conclusion:
+   - This is the first study to evaluate olaparib in combination with trastuzumab in patients with HER2-positive ABC and BRCAm.
+   - The findings support further investigation of this regimen in larger, randomized trials.
+
+8. Limitations:
+   - Small sample size due to slow accrual.
+   - Premature termination of the study.
+
+9. Future Directions:
+   - The authors recommend conducting phase III studies to confirm these preliminary results.
+
+This study provides valuable insights into potential new treatment options for patients with HER2-positive ABC and BRCA mutations, highlighting the importance of combining PARP inhibitors with targeted therapies in this patient population.

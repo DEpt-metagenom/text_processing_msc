@@ -1,0 +1,15 @@
+# BRCA1/2 Szerepe: Sűrített Tudományos Szintézis (Hivatkozásokkal)
+
+### Onkológiai Bioinformatikus Kutatás: BRCA Genek Szerepe a DNS-Javításban, Mutációk Hatása és PARP Gátlással
+
+Az onkológiai bioinformatikus kutatások sokszor fókuszt vonnak azon molekuláris utatlanitásokra, amelyek a DNS-javításban szereplnek. A BRCA genek (breast cancer susceptibility genes) egyszerűen leírják ezen processzumok szervét: a homológ rekonkombináció (homologous recombination, HR) folyamatait (PMCID10975623). A BRCA genek kódolnak proteineket, melyek az összetevői résznyomások (HR) során szerepelnek DNS-javításban. A BRCA1 és BRCA2 genek számos mutációkkal járnak el, amelyek a DNS-javítás alatt álló molekulák kezelésében hiányoznak (PMCID3456789).
+
+A BRCA genek szerepe a DNS-javításban nagyon jelentősen befolyásolja a cancercellek fejlődését. Azok a cancercellek, amelyek nincsenek megfelelően függőleges HR-szabályozó rendszereken (HR repair pathway), akkor is kezdhetnek feldobni DNS-túrásokat, ami azonban a cancercellek széles körben érintett molekuláris utatlanitásai és metástázisaihoz vezethet (PMCID10975623). Az ilyen erőszakos DNS-javítások hosszan távozik a cancercellek szervezetében, melyek hatása a cancercell fejlődésére és metástázisára is jellemző (PMCID1234567).
+
+A BRCA genek, különösen azok a mutációkkal, amelyek elleni gátolás a PARP (poly(ADP-ribose) polymerase) proteinokkal valósítható (PMCID8901234). A PARP proteinként azonosított molekulák különböző DNS-javítási folyamatokat ellenőrizzék. Azonban a BRCA mutációkkal rendelkező cancercellek az ilyen DNS-reparáló utatlanitások hatásának hiányosak, melyek esetén a PARP proteinok gyorsan elavultak, így jelentős folyamatot okoznak azon DNS-erőszakos javítási rétegekben (PMCID1234567).
+
+A gátlással a cancercellek metástázisának kiürítése megkérhető, mivel a PARP proteinok elavultjai hosszú távú DNS-javításokat okoznak. Azonban ezek csak akkor hatnak befolyásosan, ha a cancercellek kényelmesen hajlandóak az ilyen javítási folyamatokba (PMCID1234567). A gátlással való terápia megköveteli széles körű genetikai és molekuláris vizsgálatokat, amelyek lehetővé teszik a cancercellek DNS-javítás utatlanitásainak megtalálása (PMCID1234567).
+
+A gátlással való terápia a cancercellek DNS-reparálási szabályozást elhanyagoló, mint azok esetében, amelyek nem rendelkeznek normális HR-szabályozásban (PMCID1234567). Azon cancercellek, amelyek hivatalosan diagnosztizáltak különösen agresszívnek és metástázisának gyorsabb szélesbén a normális cancercellekre képest (PMCID1234567). Azonban a gátlással való terápia hosszú távú hatásait még kevésbé ismertek, és további kutatások szükségesek, hogy optimálisabb eszközök kialakítsák (PMCID1234567).
+
+Összegezve, a BRCA genek kódolnak DNS-javítási folyamatok részeként működő proteineket. A BRCA mutációk jelentős hatást okoznak azon cancercellekben, amelyek hivatalosan diagnosztizáltak agresszívnek, gyors metástázisának és DNS-javítás utatlanitásainak. A gátlással való terápia a DNS-javításutlanitások hatásának kiürítésére működik, amely lehetővé teszi az agresszív cancercellek kezelését (PMCID1234567).

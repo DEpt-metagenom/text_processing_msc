@@ -1,0 +1,17 @@
+### Összefoglalás
+
+#### Fő témák:
+A szöveg fő része SASH1 genének és proteinének (SASH1) hatásairól beszél, különösen a hipoxygenálás által okozott epithélium-mesenchymális tranzitció (EMT) elleni védelemre vonatkozóan. A kutatások fő témái a SASH1 genének és proteinének biológiai szerepének vizsgálatát, különösen azon, hogyan befolyásolja a PI3K/Akt hivatalos útvonalat.
+
+#### Visszatérő minták:
+- **Prolifiráció elleni védelem**: Sok kutatás (pl. He et al., 2016; Li, 2018) tükrözi a SASH1 genének és proteinének befolyásoló hatását a sarkomáris cellák proliferálásának csökkentésére.
+- **Invasziós elleni védelem**: A szöveg több esetben (pl. Qinwen et al., 2019; Xia et al., 2024) említi, hogy a SASH1 gen és protein befolyásolja az invaziót.
+- **EMT elleni védelem**: A hipoxygenálás által okozott EMT elleni védelmet is tükrözik (pl. Pan et al., 2017; Zhou, 2018).
+
+#### Fontos megállapítások:
+- **PI3K/Akt útvonal**: A szöveg sok esetben említi, hogy a SASH1 gen és protein befolyásolja a PI3K/Akt hivatalos útvonalat (pl. Li, 2018; Zhou et al., 2017).
+- **Prognózis biomarker**: A SASH1 genének és proteinének kifejezését használják a sarkomáris betegségok (pl. gastric cancer, ovarian cancer) prognózisának értékelésére (pl. Zhou et al., 2018; Ren et al., 2016).
+- **Tumör kezelés**: A SASH1 gen és protein befolyásolja a tumör cellák kiterjesztését, ami segít a kezelési eljárások fejlődésében (pl. Meng et al., 2013; Burgess et al., 2016).
+
+### Összefoglaló
+A SASH1 gen és protein befolyásolja a sarkomáris cellák proliferálását, invazióját és EMT-t, különösen azon, hogyan befolyásolja a PI3K/Akt hivatalos útvonalat. A kutatások fókuszálják a SASH1 genének és proteinének szerepét a sarkomáris betegségok prognózisának értékelésében, valamint a kezelési eljárások fejlődésében.
