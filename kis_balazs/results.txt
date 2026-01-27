@@ -1,0 +1,713 @@
+
+=== Globális érzelmi megoszlás ===
+emotion_label
+neutral       0.250
+confidence    0.196
+anger         0.165
+positive      0.160
+confusion     0.121
+anxiety       0.055
+sadness       0.033
+disgust       0.013
+joy           0.007
+Name: proportion, dtype: float64
+
+=== Páciensenként, session-önkénti összesítés ===
+
+--- Páciens 003 ---
+
+Session 4 (n=30)
+ Érzelmi címkék:
+  neutral     : 23.33%
+  positive    : 23.33%
+  confusion   : 20.00%
+  anger       : 20.00%
+  anxiety     : 6.67%
+  sadness     : 3.33%
+  confidence  : 3.33%
+ Érzelemcsoportok:
+  negative: 50.00%
+  neutral : 23.33%
+  positive: 26.67%
+
+Session 5 (n=14)
+ Érzelmi címkék:
+  neutral     : 42.86%
+  anger       : 14.29%
+  confusion   : 14.29%
+  disgust     : 7.14%
+  anxiety     : 7.14%
+  sadness     : 7.14%
+  confidence  : 7.14%
+ Érzelemcsoportok:
+  negative: 50.00%
+  neutral : 42.86%
+  positive: 7.14%
+
+Session 6 (n=29)
+ Érzelmi címkék:
+  confusion   : 55.17%
+  anger       : 17.24%
+  neutral     : 13.79%
+  disgust     : 3.45%
+  sadness     : 3.45%
+  positive    : 3.45%
+  anxiety     : 3.45%
+ Érzelemcsoportok:
+  negative: 82.76%
+  neutral : 13.79%
+  positive: 3.45%
+
+--- Páciens 009 ---
+
+Session 2 (n=7)
+ Érzelmi címkék:
+  positive    : 71.43%
+  confidence  : 14.29%
+  neutral     : 14.29%
+ Érzelemcsoportok:
+  positive: 85.71%
+  neutral : 14.29%
+
+Session 4 (n=14)
+ Érzelmi címkék:
+  anger       : 42.86%
+  confidence  : 28.57%
+  neutral     : 21.43%
+  confusion   : 7.14%
+ Érzelemcsoportok:
+  negative: 50.00%
+  neutral : 21.43%
+  positive: 28.57%
+
+Session 5 (n=37)
+ Érzelmi címkék:
+  positive    : 24.32%
+  confidence  : 21.62%
+  confusion   : 21.62%
+  neutral     : 18.92%
+  anger       : 8.11%
+  sadness     : 5.41%
+ Érzelemcsoportok:
+  positive: 45.95%
+  neutral : 18.92%
+  negative: 35.14%
+
+Session 6 (n=14)
+ Érzelmi címkék:
+  confidence  : 57.14%
+  positive    : 28.57%
+  neutral     : 14.29%
+ Érzelemcsoportok:
+  positive: 85.71%
+  neutral : 14.29%
+
+Session 7 (n=1)
+ Érzelmi címkék:
+  neutral     : 100.00%
+ Érzelemcsoportok:
+  neutral : 100.00%
+
+--- Páciens 016 ---
+
+Session 1 (n=19)
+ Érzelmi címkék:
+  confusion   : 26.32%
+  confidence  : 21.05%
+  neutral     : 15.79%
+  sadness     : 10.53%
+  anger       : 10.53%
+  anxiety     : 10.53%
+  positive    : 5.26%
+ Érzelemcsoportok:
+  negative: 57.89%
+  positive: 26.32%
+  neutral : 15.79%
+
+Session 2 (n=10)
+ Érzelmi címkék:
+  neutral     : 40.00%
+  confidence  : 20.00%
+  anger       : 10.00%
+  anxiety     : 10.00%
+  sadness     : 10.00%
+  positive    : 10.00%
+ Érzelemcsoportok:
+  positive: 30.00%
+  negative: 30.00%
+  neutral : 40.00%
+
+Session 3 (n=6)
+ Érzelmi címkék:
+  confusion   : 33.33%
+  confidence  : 33.33%
+  sadness     : 16.67%
+  neutral     : 16.67%
+ Érzelemcsoportok:
+  negative: 50.00%
+  positive: 33.33%
+  neutral : 16.67%
+
+Session 4 (n=17)
+ Érzelmi címkék:
+  anxiety     : 29.41%
+  confidence  : 23.53%
+  positive    : 17.65%
+  anger       : 11.76%
+  neutral     : 11.76%
+  confusion   : 5.88%
+ Érzelemcsoportok:
+  negative: 47.06%
+  positive: 41.18%
+  neutral : 11.76%
+
+Session 5 (n=20)
+ Érzelmi címkék:
+  confidence  : 40.00%
+  neutral     : 20.00%
+  positive    : 15.00%
+  anxiety     : 10.00%
+  confusion   : 5.00%
+  anger       : 5.00%
+  sadness     : 5.00%
+ Érzelemcsoportok:
+  negative: 25.00%
+  positive: 55.00%
+  neutral : 20.00%
+
+Session 6 (n=11)
+ Érzelmi címkék:
+  anger       : 27.27%
+  confidence  : 18.18%
+  confusion   : 18.18%
+  neutral     : 9.09%
+  anxiety     : 9.09%
+  sadness     : 9.09%
+  positive    : 9.09%
+ Érzelemcsoportok:
+  positive: 27.27%
+  neutral : 9.09%
+  negative: 63.64%
+
+Session 7 (n=8)
+ Érzelmi címkék:
+  positive    : 37.50%
+  neutral     : 25.00%
+  joy         : 25.00%
+  anxiety     : 12.50%
+ Érzelemcsoportok:
+  neutral : 25.00%
+  positive: 62.50%
+  negative: 12.50%
+
+--- Páciens 019 ---
+
+Session 4 (n=69)
+ Érzelmi címkék:
+  positive    : 28.99%
+  neutral     : 24.64%
+  confidence  : 21.74%
+  anxiety     : 10.14%
+  confusion   : 7.25%
+  joy         : 4.35%
+  anger       : 2.90%
+ Érzelemcsoportok:
+  neutral : 24.64%
+  negative: 20.29%
+  positive: 55.07%
+
+Session 5 (n=26)
+ Érzelmi címkék:
+  positive    : 26.92%
+  confidence  : 23.08%
+  anger       : 19.23%
+  neutral     : 11.54%
+  confusion   : 7.69%
+  anxiety     : 3.85%
+  sadness     : 3.85%
+  joy         : 3.85%
+ Érzelemcsoportok:
+  negative: 34.62%
+  positive: 53.85%
+  neutral : 11.54%
+
+Session 6 (n=26)
+ Érzelmi címkék:
+  positive    : 42.31%
+  neutral     : 23.08%
+  confidence  : 23.08%
+  confusion   : 3.85%
+  anger       : 3.85%
+  anxiety     : 3.85%
+ Érzelemcsoportok:
+  neutral : 23.08%
+  negative: 11.54%
+  positive: 65.38%
+
+Session 7 (n=42)
+ Érzelmi címkék:
+  confidence  : 38.10%
+  positive    : 28.57%
+  neutral     : 23.81%
+  sadness     : 7.14%
+  confusion   : 2.38%
+ Érzelemcsoportok:
+  positive: 66.67%
+  neutral : 23.81%
+  negative: 9.52%
+
+--- Páciens 022 ---
+
+Session 3 (n=21)
+ Érzelmi címkék:
+  anger       : 28.57%
+  confusion   : 23.81%
+  neutral     : 14.29%
+  confidence  : 9.52%
+  disgust     : 9.52%
+  sadness     : 4.76%
+  anxiety     : 4.76%
+  positive    : 4.76%
+ Érzelemcsoportok:
+  neutral : 14.29%
+  negative: 71.43%
+  positive: 14.29%
+
+Session 4 (n=38)
+ Érzelmi címkék:
+  anger       : 50.00%
+  neutral     : 21.05%
+  anxiety     : 10.53%
+  confidence  : 10.53%
+  confusion   : 7.89%
+ Érzelemcsoportok:
+  negative: 68.42%
+  neutral : 21.05%
+  positive: 10.53%
+
+Session 5 (n=22)
+ Érzelmi címkék:
+  anger       : 72.73%
+  anxiety     : 9.09%
+  confidence  : 9.09%
+  neutral     : 4.55%
+  confusion   : 4.55%
+ Érzelemcsoportok:
+  negative: 86.36%
+  neutral : 4.55%
+  positive: 9.09%
+
+Session 6 (n=26)
+ Érzelmi címkék:
+  neutral     : 30.77%
+  confidence  : 30.77%
+  positive    : 15.38%
+  confusion   : 11.54%
+  anxiety     : 7.69%
+  anger       : 3.85%
+ Érzelemcsoportok:
+  neutral : 30.77%
+  negative: 23.08%
+  positive: 46.15%
+
+Session 7 (n=21)
+ Érzelmi címkék:
+  anger       : 42.86%
+  confidence  : 19.05%
+  neutral     : 19.05%
+  sadness     : 9.52%
+  disgust     : 4.76%
+  positive    : 4.76%
+ Érzelemcsoportok:
+  positive: 23.81%
+  negative: 57.14%
+  neutral : 19.05%
+
+--- Páciens 023 ---
+
+Session 3 (n=63)
+ Érzelmi címkék:
+  anger       : 26.98%
+  neutral     : 22.22%
+  confidence  : 22.22%
+  positive    : 19.05%
+  confusion   : 7.94%
+  disgust     : 1.59%
+ Érzelemcsoportok:
+  negative: 36.51%
+  positive: 41.27%
+  neutral : 22.22%
+
+Session 4 (n=27)
+ Érzelmi címkék:
+  anger       : 37.04%
+  neutral     : 29.63%
+  confidence  : 14.81%
+  positive    : 14.81%
+  confusion   : 3.70%
+ Érzelemcsoportok:
+  neutral : 29.63%
+  negative: 40.74%
+  positive: 29.63%
+
+Session 5 (n=47)
+ Érzelmi címkék:
+  neutral     : 46.81%
+  positive    : 31.91%
+  confidence  : 17.02%
+  anger       : 2.13%
+  confusion   : 2.13%
+ Érzelemcsoportok:
+  negative: 4.26%
+  positive: 48.94%
+  neutral : 46.81%
+
+Session 6 (n=43)
+ Érzelmi címkék:
+  neutral     : 32.56%
+  confidence  : 30.23%
+  anger       : 25.58%
+  confusion   : 6.98%
+  positive    : 4.65%
+ Érzelemcsoportok:
+  positive: 34.88%
+  negative: 32.56%
+  neutral : 32.56%
+
+Session 7 (n=4)
+ Érzelmi címkék:
+  neutral     : 50.00%
+  confusion   : 25.00%
+  positive    : 25.00%
+ Érzelemcsoportok:
+  neutral : 50.00%
+  negative: 25.00%
+  positive: 25.00%
+
+--- Páciens 026 ---
+
+Session 2 (n=15)
+ Érzelmi címkék:
+  positive    : 60.00%
+  sadness     : 13.33%
+  anxiety     : 6.67%
+  confidence  : 6.67%
+  confusion   : 6.67%
+  neutral     : 6.67%
+ Érzelemcsoportok:
+  negative: 26.67%
+  positive: 66.67%
+  neutral : 6.67%
+
+Session 3 (n=14)
+ Érzelmi címkék:
+  positive    : 50.00%
+  neutral     : 21.43%
+  confusion   : 21.43%
+  confidence  : 7.14%
+ Érzelemcsoportok:
+  positive: 57.14%
+  neutral : 21.43%
+  negative: 21.43%
+
+Session 4 (n=15)
+ Érzelmi címkék:
+  neutral     : 40.00%
+  positive    : 26.67%
+  confusion   : 20.00%
+  confidence  : 6.67%
+  joy         : 6.67%
+ Érzelemcsoportok:
+  neutral : 40.00%
+  negative: 20.00%
+  positive: 40.00%
+
+--- Páciens 027 ---
+
+Session 3 (n=19)
+ Érzelmi címkék:
+  confidence  : 47.37%
+  neutral     : 36.84%
+  confusion   : 10.53%
+  joy         : 5.26%
+ Érzelemcsoportok:
+  neutral : 36.84%
+  negative: 10.53%
+  positive: 52.63%
+
+Session 4 (n=38)
+ Érzelmi címkék:
+  confusion   : 42.11%
+  neutral     : 28.95%
+  confidence  : 13.16%
+  anxiety     : 7.89%
+  positive    : 5.26%
+  joy         : 2.63%
+ Érzelemcsoportok:
+  negative: 50.00%
+  positive: 21.05%
+  neutral : 28.95%
+
+Session 5 (n=54)
+ Érzelmi címkék:
+  neutral     : 27.78%
+  anger       : 18.52%
+  confusion   : 16.67%
+  confidence  : 12.96%
+  anxiety     : 9.26%
+  positive    : 9.26%
+  sadness     : 3.70%
+  disgust     : 1.85%
+ Érzelemcsoportok:
+  negative: 50.00%
+  positive: 22.22%
+  neutral : 27.78%
+
+--- Páciens 029 ---
+
+Session 3 (n=9)
+ Érzelmi címkék:
+  neutral     : 33.33%
+  anxiety     : 33.33%
+  confidence  : 22.22%
+  confusion   : 11.11%
+ Érzelemcsoportok:
+  positive: 22.22%
+  neutral : 33.33%
+  negative: 44.44%
+
+Session 4 (n=12)
+ Érzelmi címkék:
+  positive    : 50.00%
+  neutral     : 33.33%
+  anxiety     : 8.33%
+  confidence  : 8.33%
+ Érzelemcsoportok:
+  neutral : 33.33%
+  positive: 58.33%
+  negative: 8.33%
+
+Session 5 (n=30)
+ Érzelmi címkék:
+  anger       : 30.00%
+  neutral     : 26.67%
+  anxiety     : 13.33%
+  confusion   : 13.33%
+  positive    : 10.00%
+  confidence  : 6.67%
+ Érzelemcsoportok:
+  neutral : 26.67%
+  negative: 56.67%
+  positive: 16.67%
+
+Session 6 (n=19)
+ Érzelmi címkék:
+  anger       : 26.32%
+  neutral     : 21.05%
+  confidence  : 15.79%
+  anxiety     : 10.53%
+  disgust     : 10.53%
+  confusion   : 10.53%
+  positive    : 5.26%
+ Érzelemcsoportok:
+  negative: 57.89%
+  positive: 21.05%
+  neutral : 21.05%
+
+--- Páciens 031 ---
+
+Session 2 (n=9)
+ Érzelmi címkék:
+  sadness     : 44.44%
+  confusion   : 22.22%
+  confidence  : 22.22%
+  neutral     : 11.11%
+ Érzelemcsoportok:
+  negative: 66.67%
+  positive: 22.22%
+  neutral : 11.11%
+
+Session 6 (n=5)
+ Érzelmi címkék:
+  positive    : 80.00%
+  confusion   : 20.00%
+ Érzelemcsoportok:
+  negative: 20.00%
+  positive: 80.00%
+
+--- Páciens 032 ---
+
+Session 5 (n=5)
+ Érzelmi címkék:
+  confusion   : 40.00%
+  neutral     : 20.00%
+  anger       : 20.00%
+  confidence  : 20.00%
+ Érzelemcsoportok:
+  negative: 60.00%
+  neutral : 20.00%
+  positive: 20.00%
+
+--- Páciens 034 ---
+
+Session 3 (n=62)
+ Érzelmi címkék:
+  neutral     : 43.55%
+  anger       : 16.13%
+  confusion   : 12.90%
+  sadness     : 8.06%
+  anxiety     : 6.45%
+  positive    : 6.45%
+  confidence  : 6.45%
+ Érzelemcsoportok:
+  neutral : 43.55%
+  negative: 43.55%
+  positive: 12.90%
+
+Session 4 (n=26)
+ Érzelmi címkék:
+  neutral     : 23.08%
+  anger       : 23.08%
+  anxiety     : 19.23%
+  sadness     : 15.38%
+  confusion   : 7.69%
+  positive    : 7.69%
+  confidence  : 3.85%
+ Érzelemcsoportok:
+  neutral : 23.08%
+  negative: 65.38%
+  positive: 11.54%
+
+Session 5 (n=33)
+ Érzelmi címkék:
+  confidence  : 39.39%
+  neutral     : 24.24%
+  anger       : 24.24%
+  confusion   : 6.06%
+  sadness     : 3.03%
+  positive    : 3.03%
+ Érzelemcsoportok:
+  positive: 42.42%
+  neutral : 24.24%
+  negative: 33.33%
+
+--- Páciens 035 ---
+
+Session 1 (n=16)
+ Érzelmi címkék:
+  confidence  : 31.25%
+  anger       : 31.25%
+  neutral     : 25.00%
+  disgust     : 6.25%
+  sadness     : 6.25%
+ Érzelemcsoportok:
+  negative: 43.75%
+  positive: 31.25%
+  neutral : 25.00%
+
+Session 2 (n=52)
+ Érzelmi címkék:
+  neutral     : 32.69%
+  confidence  : 17.31%
+  confusion   : 13.46%
+  positive    : 9.62%
+  anger       : 9.62%
+  disgust     : 7.69%
+  sadness     : 5.77%
+  anxiety     : 3.85%
+ Érzelemcsoportok:
+  positive: 26.92%
+  neutral : 32.69%
+  negative: 40.38%
+
+--- Páciens 039 ---
+
+Session 3 (n=17)
+ Érzelmi címkék:
+  anger       : 35.29%
+  positive    : 29.41%
+  confidence  : 23.53%
+  disgust     : 5.88%
+  confusion   : 5.88%
+ Érzelemcsoportok:
+  positive: 52.94%
+  negative: 47.06%
+
+Session 4 (n=25)
+ Érzelmi címkék:
+  confidence  : 28.00%
+  positive    : 24.00%
+  neutral     : 16.00%
+  anger       : 12.00%
+  anxiety     : 8.00%
+  confusion   : 8.00%
+  disgust     : 4.00%
+ Érzelemcsoportok:
+  negative: 32.00%
+  positive: 52.00%
+  neutral : 16.00%
+
+Session 7 (n=23)
+ Érzelmi címkék:
+  confidence  : 52.17%
+  neutral     : 17.39%
+  confusion   : 13.04%
+  anger       : 13.04%
+  positive    : 4.35%
+ Érzelemcsoportok:
+  negative: 26.09%
+  positive: 56.52%
+  neutral : 17.39%
+
+=== Időbeli tendencia (negatív arány) ===
+   patient_id  session  negative_ratio
+0         003        4        0.500000
+1         003        5        0.500000
+2         003        6        0.827586
+3         009        2        0.000000
+4         009        4        0.500000
+5         009        5        0.351351
+6         009        6        0.000000
+7         009        7        0.000000
+8         016        1        0.578947
+9         016        2        0.300000
+10        016        3        0.500000
+11        016        4        0.470588
+12        016        5        0.250000
+13        016        6        0.636364
+14        016        7        0.125000
+15        019        4        0.202899
+16        019        5        0.346154
+17        019        6        0.115385
+18        019        7        0.095238
+19        022        3        0.714286
+20        022        4        0.684211
+21        022        5        0.863636
+22        022        6        0.230769
+23        022        7        0.571429
+24        023        3        0.365079
+25        023        4        0.407407
+26        023        5        0.042553
+27        023        6        0.325581
+28        023        7        0.250000
+29        026        2        0.266667
+30        026        3        0.214286
+31        026        4        0.200000
+32        027        3        0.105263
+33        027        4        0.500000
+34        027        5        0.500000
+35        029        3        0.444444
+36        029        4        0.083333
+37        029        5        0.566667
+38        029        6        0.578947
+39        031        2        0.666667
+40        031        6        0.200000
+41        032        5        0.600000
+42        034        3        0.435484
+43        034        4        0.653846
+44        034        5        0.333333
+45        035        1        0.437500
+46        035        2        0.403846
+47        039        3        0.470588
+48        039        4        0.320000
+49        039        7        0.260870
