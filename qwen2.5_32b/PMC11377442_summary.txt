@@ -1,0 +1,20 @@
+### Összefoglalás
+
+#### Fő témák:
+A szöveg fő témái a BRCA1 és BRCA2 genetikai mutációk, kármányos testek genomika, valamint a megfelelő kezelések meghatározása. A kutatások fókuszál azon, hogy hogyan lehetővé teszi a genetikai mutációk diagnosztizálását és a megfelelő kezelések meghatározását.
+
+#### Visszatérő minták:
+- **Risk Assessment**: A szöveg fókuszál azon, hogy hogyan lehetővé teszi a BRCA1 és BRCA2 genetikai mutációk riskának értékelését.
+- **Breast Cancer Management**: A szöveg fókuszál azon, hogy hogyan lehetővé teszi a kármányos testek (solid tumors) genomikus profiljának elemzését és a megfelelő kezelések meghatározását.
+- **Risk Reduction Strategies**: A szöveg fókuszál azon, hogy hogyan lehetővé teszi a kármányos testek genomikus profiljának elemzését és a megfelelő kezelések meghatározását.
+- **Clinical Practice Guidelines**: A szöveg fókuszál azon, hogy hogyan lehetővé teszi a kármányos testek genomikus profiljának elemzését és a megfelelő kezelések meghatározását.
+- **Consensus and Evidence**: A szöveg fókuszál azon, hogy hogyan lehetővé teszi a kármányos testek genomikus profiljának elemzését és a megfelelő kezelések meghatározását.
+- **Future Directions**: A szöveg fókuszál azon, hogy hogyan lehetővé teszi a kármányos testek genomikus profiljának elemzését és a megfelelő kezelések meghatározását.
+
+#### Fontos megállapítások:
+- **Risk Assessment**: A BRCA1 és BRCA2 genetikai mutációk jelentős kármányos testek (solid tumors) risztosságának növelését okozzák, különösen a fiatalabb nők esetén.
+- **Breast Cancer Management**: A contralateral prophylactic mastectomy (CPM) és risk-reducing salpingo-oophorectomy (RRSO) használata javasolt a BRCA1/2 genetikai mutációk növekedési risztosságának csökkentésére.
+- **Risk Reduction Strategies**: A mastektomi és oophorektomi a kármányos testek genomikus profiljának elemzését és a megfelelő kezelések meghatározását javasoló stratégiák része lehet.
+- **Clinical Practice Guidelines**: A National Comprehensive Cancer Network (NCCN) által kifejlesztett irányelvek javasolják a BRCA1/2 genetikai mutációk növekedési risztosságának kezelését.
+- **Consensus and Evidence**: A CPM és RRSO használata bizonyítékos, de az igényes döntésnek a kármányos testek genomikus profiljának elemzése és a megfelelő kezelések meghatározása alapja lehet.
+- **Future Directions**: A kármányos testek genomikus profiljának elemzését és a megfelelő kezelések meghatározását további kutatásokra irányítják, amelyek javíthatják az értékelést és a kezelést.

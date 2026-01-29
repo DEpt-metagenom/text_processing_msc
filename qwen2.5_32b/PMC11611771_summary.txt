@@ -1,0 +1,48 @@
+### Összefoglalás
+
+#### Fő témák
+A kutatás fő témái a TNBC (trisegmentális negatív bokszon) beteg terápia válaszainak előrejelzésével kapcsolatos genetikai és tranzkriptomikus biomarkerek vizsgálatát érintik. A kutatás fókuszja a következő területeken:
+
+1. **Homologis reparació hiány (HRD) számítása**:
+   - Az HRD számítás használata a TNBC beteg terápia válaszainak előrejelzésében.
+
+2. **Genetikai mutációk**:
+   - TP53, KMT2C, PIK3CA és BRCA genetikai mutációk megszűnését vizsgálva a beteg terápia válaszát megértve.
+   
+3. **FGFR2 és E-csatorna környezeti fajtákat**:
+   - FGFR2 és E-csatorna (EMT) környezeti fajtákat használva a beteg terápia válaszát előrejelzve.
+
+#### Visszatérő minták
+A kutatásban az alábbi visszatérő minták szerepelnek:
+
+1. **Genetikai mutációk és klinikai követeléseik**:
+   - Az eredeti BRCA1/2 genetikai mutációk klinikai következményei.
+   - A neumációs folyamatokban szereplő FGFR2 és TP53 genetikai eljárások.
+
+2. **Szenzorok és tranzitórius kinázások**:
+   - Az MAPK eljárások (dual-specificity MAP kinase phosphatases) szerepe a fejlődésben és károkban.
+   - FGFR2 genetikai mutációk potenciális terápia célokké válása.
+
+3. **Immunológiai reakciók**:
+   - A neumációs folyamatokban szereplő immunológiai reakciók befolyása a terápia hatékonyságának.
+   - FGFR2-szolgáltatás lejárta és az immunoterápia kapcsolata.
+
+4. **Proteomik és genetikai analízis**:
+   - HMEC neumációs transformáció proteomik vizsgálata.
+   - Integratív analízis a neuregulin család tagjainak kapcsolatával a glioma-tumor mikroökosztumon.
+
+#### Fontos megállapítások
+A kutatás eredményei alapján a következő javaslatok kimennek:
+
+1. **HRD számítás használata**:
+   - A HRD számítás használata a TNBC beteg terápia válaszainak előrejelzésében.
+
+2. **Genetikai mutációk vizsgálata**:
+   - TP53, KMT2C, PIK3CA és BRCA genetikai mutációk megszűnését vizsgálva a beteg terápia válaszát megértve.
+
+3. **FGFR2 és E-csatorna környezeti fajtákat**:
+   - FGFR2 és E-csatorna környezeti fajtákat használva a beteg terápia válaszát előrejelzve.
+
+A tanulmány további kutatásokra is hív fel a figyelmét, mivel a kis mintasebesség miatt még nem érhető el a bizonyíték. Az eredmények valóban megerősíthetők és alkalmazhatók a gyakorlatba, amíg további kutatások növelik az értelmezést.
+
+A tanulmány jelentős információkat nyújt arról, hogy hogyan lehet a TNBC terápia válaszait és ellenére jelenlétét meghatározni genetikai és tranzkriptomikus biomarkerek segítségével.

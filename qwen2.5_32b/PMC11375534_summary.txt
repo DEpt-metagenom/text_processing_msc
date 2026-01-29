@@ -1,0 +1,21 @@
+### Összefoglalás
+
+#### Fő Témák:
+- **ENG Gen**: A szöveg fókuszál a gen ENG (Endoglin) és a sajátos jellemzői jelenléteineken.
+- **Cancer-Type Specificity**: Az ENG gen változatok, methylációk és expressziójának vizsgálata különböző cancertípusokban.
+- **Diagnostic and Prognostic Models**: A gen methylációjának használata diagnosztikus és prognóstikus modellök fejlesztésében.
+
+#### Visszatérő Minták:
+- **Expression Levels**: Az ENG gen expressziója magasabb normális tisztelőkben, alacsonyabb károkban.
+- **Mutations and Methylation**: Mutációk és methylációjának jellemzői az ENG genen különböző cancertípusokban, középpontosan a brusti cancercelben.
+- **Anti-Cancer Agent Interaction**: Az ENG gen expressziója egy anti-cancer agens (CD) segítségével felnyitott úton.
+- **Survival Analysis**: A higher ENG expressziója károkban kapcsolatot mutat a relapse-free survival mellett.
+
+#### Fontos Megállapítások:
+1. **Expression and Tumor Immune Response**: Az ENG gen expressziójának korrelációja a tumor immun respondszertől.
+2. **Diagnostic Model for BRCA**: A brusti cancercelben az ENG methylációjának használata diagnosztikus modellök fejlesztésében.
+3. **Prognostic Model for BRCA**: Az ENG methyláció alapján a brusti cancercel prognóstikus modellek kialakítása.
+4. **CpG Sites Importance**: Certain CpG sites (e.g., `cg14185922`, `cg24910675`) play crucial roles in diagnosis and prognosis.
+5. **Mechanisms of Action**: Az ENG gen expressziója és a CD anti-cancer agens közötti interakciók meghatározása.
+
+A kutatás általános célja az ENG gen használata diagnosztikus és prognóstikus célokra, valamint a károk terápiai jellemzőinek megértése.

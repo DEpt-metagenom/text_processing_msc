@@ -1,0 +1,17 @@
+This study evaluated lurbinectedin, a novel DNA damaging agent, as second-line therapy in patients with metastatic breast cancer who have BRCA mutations. Key points from the study include:
+
+- 13 patients were enrolled at 8 centers across Spain between March 2015 and December 2017.
+- The primary endpoint was overall response rate (ORR), defined as complete or partial response according to RECIST v1.1 criteria.
+- Secondary endpoints included progression-free survival, duration of response, safety/tolerability, and pharmacokinetics.
+
+The key findings were:
+
+- ORR was 38% (5/13 patients). 
+- Median PFS was 4.6 months (95% CI 2.7 - not reached).
+- Median DoR was 6.0 months.
+- The most common grade 3+ adverse events were neutropenia, anemia, and fatigue.
+- No dose limiting toxicities occurred.
+
+The authors concluded that lurbinectedin demonstrated antitumor activity in this patient population with a manageable safety profile. They noted the response rate was similar to other studies of BRCA-mutated breast cancer patients treated with PARP inhibitors or platinum-based therapies.
+
+This study adds to the growing body of evidence supporting lurbinectedin as an effective treatment option for certain subgroups of advanced breast cancer, particularly those with BRCA mutations. The results provide a rationale for further investigation in this setting.

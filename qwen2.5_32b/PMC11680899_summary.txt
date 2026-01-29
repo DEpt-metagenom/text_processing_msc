@@ -1,0 +1,16 @@
+### Összefoglalás
+
+#### Fő témák:
+A szöveg fő témái az immunoterápia, a bőr érzékenység molekuláris subtipizálása és a T-cell kibocsátás részletei. A kutatások fókuszálhatnak a MIR22HG molekuláris jellemzőre, az immunoterápia előrejelzésére, valamint a pyroptosis alapú gen szignaturának.
+
+#### Visszatérő minták:
+1. **Immunoterápia** - A szöveg folyamatosan említi az immunoterápia fontosságát a bőr érzékenység kockázata csökkentésében és hosszú távú életmód javításában.
+2. **Bőrérzékenység molekuláris subtipizálása** - A molekuláris struktúrák megértése az immunoterápia hatékonyságának előrejelzéséhez fontos, beleértve a MIR22HG jellemzőt.
+3. **T-cell kibocsátás** - Az immunoterápia segít a T-cell kibocsátás javításában, ami a bőr érzékenység elleni reagálást javítja.
+
+#### Fontos megállapítások:
+1. **Bőrérzékenység általános statisztika** - 2024-ben 2,3 millió új eset és 687 800 halálos eset.
+2. **MIR22HG jellemző** - Ez a molekuláris jellemző az immunoterápia előrejelzésében segít, mivel befolyásolja a TGFbeta/SMAD szigmelelési hálózatot.
+3. **Pyroptosis alapú gen szignatura** - Ez a szignatura a bőrérzékenység immun infiltrálását, életmódot és immun blokkációs reagálást előrejelzheti.
+
+A kutatások általában mutatják, hogy az immunoterápia és a molekuláris subtipizálás fontos szerepet játszanak a bőr érzékenység elleni reagálás javításában.

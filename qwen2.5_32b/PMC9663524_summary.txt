@@ -1,0 +1,66 @@
+### Összefoglalás
+
+#### Fő Témák:
+1. **PARP Inhibitors in HER2-Negative BRCA-Related Advanced Breast Cancer (BC):**
+   - Fókusz a TN BC és HR-positive/HER2-negative BC terápiáján.
+   - Kritérium: deleterious BRCA germline mutációval rendelkező kórban lévő BC-patikák.
+
+2. **Klinikus Követelmények:**
+   - Klinikai kérdések a fókuszáltság és az ORR javításra.
+   - PFS, QoL és OS-mutatók értékelése.
+
+3. **Eredmények:**
+   - Jelentős PFS javítás.
+   - Signifikáns ORR növekedés a HR-positive BC-ban.
+   - Javított QoL mindkét környezetben.
+   - Nem jelentős OS javítás.
+
+4. **Biztonság:**
+   - Növelt anémia-rizikum, de signifikáns neutropénia rizikánál alacsonyabb.
+   - Összességében elfogadható toksitikus profil.
+
+5. **Eredmények Bizonyosságát:**
+   - Alacsony bizonyosság a két klinikai kérdésre, mert az értékelési kölcsönöség és imprecisiona.
+
+6. **Megosztott Döntéshozatal:**
+   - A megosztott döntéshozatal folyamán a patikák részvétel fontos.
+
+7. **Társadalmi Egyensúly:**
+   - Jól hangsúlyozva, hogy az olasz országban (AIFA) olaparib és talazoparib elhelyezkedésének kritériuma a BRCA germline mutációk ellenőrzése.
+
+8. **Nekedések:**
+   - Tárgyi terápiaváltások, immunszintézis- és CDK4/6-inhibitorok szerepe.
+   - Társadalmi egyensúly kérdése.
+
+9. **Jövőre Készülés:**
+   - Folyamatos kutatás a terápiaváltások, immunszintézis- és CDK4/6-inhibitorok szerepének érdekében.
+   - Egyes klinikai irányelvek javítása.
+
+#### Visszatérő Minta:
+1. **GRADE Metodológia:**
+   - A GRADE metódus használata a terápia javaslatok kialakításában.
+   - Kritériumok és követelmények definiálása.
+
+2. **Klinikai Követelések:**
+   - Specifikus körülmények alapján (pl.: korábbi terápia, mutációval rendelkezés) a terápia alkalmazásának meghatározása.
+   - Genetikai ellenőrzések szükségessége.
+
+3. **Eredmények Értékelése:**
+   - PFS, ORR és QoL javítások értékelése.
+   - OS növekedési hatékonyság nem jelentős.
+
+#### Fontos Megállapítások:
+1. **Eredmények Bizonyossága:**
+   - Alacsony bizonyosság a klinikai kérdésekre, mivel az értékelési kölcsönöség és imprecisiona.
+
+2. **Genetikai ellenőrzések:**
+   - Jól hangsúlyozva, hogy az olasz országban (AIFA) olaparib és talazoparib elhelyezkedésének kritériuma a BRCA germline mutációk ellenőrzése.
+
+3. **Nekedalmi Egyensúly:**
+   - A terápia alkalmazásának folyamatos javítása, beleértve az immunszintézis- és CDK4/6-inhibitorok szerepének érdekében.
+
+4. **Furcsa Terápiaváltások:**
+   - Tárgyi terápiaváltások, immunszintézis- és CDK4/6-inhibitorok szerepe a jövőbeli kutatásokban.
+
+5. **Megosztott Döntéshozatal:**
+   - A megosztott döntéshozatal folyamán a patikák részvétel fontos, különösen az alacsony bizonyosság miatt.

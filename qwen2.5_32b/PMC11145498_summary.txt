@@ -1,0 +1,15 @@
+### Összefoglalás
+
+#### Fő témák:
+1. **CCNB2 Gen és Breast Cancer**: A tanulmány a CCNB2 gen kódolt ciklin B2 proteinról beszél, amely szerepet játszik a cell-cycling folyamatban, és a breast cancer, különösen a triple-negative breast cancer (TNBC) esetében is észrevehető.
+2. **Prognóstikus Szignatur**: A CCNB2 gen kifejezésének fokszintjét használva lehet létrehozni egy prognóstikus szignaturat breast cancer esetén, ami segíthet a terápia döntéseken.
+3. **Immunoterápiák**: A tanulmány javasolja, hogy az immunoterápiát a tumor immunomíracsomaglás alapján kellene használni, nem csak az immunhordozó célokra.
+
+#### Visszatérő minták:
+1. **High CCNB2 Expression**: A CCNB2 gen kifejezésének magas szintje a breast cancer esetében ismertetett, és a TNBC-ban is észrevehető.
+2. **Prognostikus Szignatur**: A CCNB2 gen kifejezésének fokszintjét használva egy prognóstikus szignaturát lehet létrehozni breast cancer esetén.
+
+#### Fontos megállapítások:
+1. **Tumor Microenvironment**: A CCNB2 gen kifejezése a tumor microenvironmentben befolyásolja, modulálva a pro-tumorigenikus és anti-tumorigenikus immun válaszok egyensúlyát.
+2. **Potential Therapeutic Target**: A CCNB2 gen kifejezésének magas szintje a tumor immunomíracsomaglásban befolyásolja az immune cell infiltrationot, tehát lehetőségként is terápiai célra használható.
+3. **Bioinformatics Tools**: A tanulmány különböző bioinformatikai eszközökkel analizált a genetikai adatokat, és nyújtott információkat az CCNB2 gen és a tumor microenvironment közötti összefüggésekéről.

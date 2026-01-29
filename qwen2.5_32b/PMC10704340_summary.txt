@@ -1,0 +1,18 @@
+### Összefoglalás
+
+#### Fő témák
+A dokumentum egy klinikai kutatási interjú jelentése, amely az orvosi folyamatokban és kutatásokban gyakran előforduló téma, a női braczsomagányos sarkkérdés után történő növénytartásot (pregnancy after breast cancer) vizsgálja. A kutatás fókuszál az orvosi szakaszokban és eredményekben, különösen a braczsomagányos sarkkérdés (BRCA1/2) mutánsztrikcióval rendelkező nők esetén.
+
+#### Visszatérő minták
+- **Kohort vizsgálata**: A kutatás egy országokon át vonatkozó, 78 klinikai központból származó adatbázisra épül.
+- **Retrospektív módszer**: Az adatok a 2000 és 2020 közötti időszakban gyűjtöttek, a vizsgált nők diagnosztikus sarkkérdés után történő növénytartást követve.
+- **Közös jellemzők**: A kohort számos orvosi szakértő részvételével, beleértve az országokon át vonatkozó szakértőket is.
+
+#### Fontos megállapítások
+- **Cumulatív incidencia**: A vizsgált kohortban 15%-os arányú nők történt növénytartás után a braczsomagányos sarkkérdés után.
+- **Életvár**: Az eredmények azt mutatják, hogy a növénytartások korai kezdete és a sarkkérdés diagnosztikája közötti időszak az életvár meghatározó téma.
+- **Specifikus és általános életvár**: A kutatás különböző életvár mértékeket vizsgál, beleértve a sarkkérdés specifikus és általános életvárát is.
+- **Növénytartási eredmények**: A növénytartások utósebessége, a gyermek és az őszinte eredmények is vizsgálva vannak.
+
+### Összefoglalás
+A kutatás egy országos kohortban történő, retrospektív módszerrel vizsgálja a braczsomagányos sarkkérdés után történő növénytartást. A különböző életvár és eredmények (gyermek- és őszinte eredmények) vizsgálatai alapján a kutatók megmutatták, hogy az időpont, amikor kezdik a növénytartást, jelentős hatással van az életvárra.
