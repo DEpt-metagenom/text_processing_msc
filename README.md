@@ -1,4 +1,4 @@
-# Szakirodalmi szövegbányászat gyakorlat
+# Szakirodalmi szövegbányászat gyakorlat Házifeladat Határidő 2026 Dec. 11
 
 Önállóan, saját gépen gyakorolható feladatsor: parancssori szövegfeldolgozás (bash, awk, perl), Python szövegtisztítás, egy kis bioinformatikai mini projekt és egy házi feladat helyi nyelvi modellel.
 
